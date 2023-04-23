@@ -1,0 +1,2000 @@
+Input: Ein Mann mit einem orangefarbenen Hut , der etwas <unk> .
+Target: A man in an orange hat starring at something .
+Prediction: A man in an orange hat crying up .
+
+Input: Ein Boston Terrier läuft über <unk> Gras vor einem weißen Zaun .
+Target: A Boston Terrier is running on lush green grass in front of a white fence .
+Prediction: A sheepdog runs over gray grass in front of a white fence .
+
+Input: Ein Mädchen in einem Karateanzug bricht ein Brett mit einem Tritt .
+Target: A girl in karate uniform breaking a stick with a front kick .
+Prediction: A girl in a karate uniform is catching a board with a kick .
+
+Input: Fünf Leute in Winterjacken und mit Helmen stehen im Schnee mit <unk> im Hintergrund .
+Target: Five people wearing winter jackets and helmets stand in the snow , with <unk> in the background .
+Prediction: Five people in winter jackets and helmets standing in the snow with fallen wrapped in the background .
+
+Input: Leute Reparieren das Dach eines Hauses .
+Target: People are fixing the roof of a house .
+Prediction: People are moving a roof of a house .
+
+Input: Ein hell gekleideter Mann fotografiert eine Gruppe von Männern in dunklen Anzügen und mit Hüten , die um eine Frau in einem trägerlosen Kleid herum stehen .
+Target: A man in light colored clothing photographs a group of men wearing dark suits and hats standing around a woman dressed in a <unk> gown .
+Prediction: A man dressed in bright colors a group of men in dark suits and hats stand around a woman in a tube .
+
+Input: Eine Gruppe von Menschen steht vor einem Iglu .
+Target: A group of people standing in front of an igloo .
+Prediction: A group of people standing in front of an igloo
+
+Input: Ein Junge in einem roten Trikot versucht , die Home Base zu erreichen , während der Catcher im blauen Trikot versucht , ihn zu fangen .
+Target: A boy in a red uniform is attempting to avoid getting out at home plate , while the catcher in the blue uniform is attempting to catch him .
+Prediction: A boy in a red jersey tries to get home plate while the catcher in blue uniform tries to catch him .
+
+Input: Ein Typ arbeitet an einem Gebäude .
+Target: A guy works on a building .
+Prediction: A guy working on a building .
+
+Input: Ein Mann in einer Weste sitzt auf einem Stuhl und hält Magazine .
+Target: A man in a vest is sitting in a chair and holding magazines .
+Prediction: A man in a vest is sitting on a chair holding magazines .
+
+Input: Eine Mutter und ihr kleiner Sohn genießen einen schönen Tag im Freien .
+Target: A mother and her young song enjoying a beautiful day outside .
+Prediction: A mother and her small son enjoying a beautiful day outdoors .
+
+Input: Männer , die Volleyball spielen , wobei ein Mann den Ball nicht trifft , während seine Hände immer noch in der Luft sind .
+Target: Men playing volleyball , with one player missing the ball but hands still in the air .
+Prediction: Men playing volleyball , with one man does the ball as his hands flies in the air .
+
+Input: Eine Frau , die in einer Küche eine Schale mit Essen hält .
+Target: A woman holding a bowl of food in a kitchen .
+Prediction: A woman holding a bowl of food in a kitchen .
+
+Input: Ein sitzender Mann , der an einem Tisch in seinem Haus mit einem Werkzeug arbeitet .
+Target: Man sitting using tool at a table in his home .
+Prediction: A seated man working at a table in his house with a
+
+Input: Drei Leute sitzen in einer Höhle .
+Target: Three people sit in a cave .
+Prediction: Three people are sitting in a cave .
+
+Input: Ein Mädchen in einem Jeanskleid läuft über einen erhöhten Schwebebalken .
+Target: A girl in a jean dress is walking along a raised balance beam .
+Prediction: A girl in a denim dress is walking across an elevated balance beam .
+
+Input: Eine Blondine hält mit einem Mann im Sand Händchen .
+Target: A blond holding hands with a guy in the sand .
+Prediction: A blond woman holding hands in the sand holding a man in
+
+Input: Eine Frau in einem <unk> Pulli und mit einer schwarzen Baseballmütze steht in einem Geschäft in der Schlange .
+Target: A woman in a gray sweater and black baseball cap is standing in line at a shop .
+Prediction: A woman in a tan sweater and sweater is standing in a store in a store .
+
+Input: Die Person im gestreiften Shirt klettert auf einen Berg .
+Target: The person in the striped shirt is mountain climbing .
+Prediction: The person in the striped shirt is climbing up a mountain
+
+Input: Zwei Männer tun so als seien sie Statuen , während Frauen ihnen zusehen .
+Target: Two men pretend to be <unk> while women look on .
+Prediction: Two men are doing gymnastics while looking at them .
+
+Input: Leute , die vor einem Gebäude stehen .
+Target: People standing outside of a building .
+Prediction: People standing in front of a building .
+
+Input: Eine Teenagerin spielt bei einem Spiel Trompete auf dem Feld .
+Target: A teenager plays her trumpet on the field at a game .
+Prediction: A teenage girl is playing a trumpet in the field .
+
+Input: Eine Frau macht einen Salto auf einem Trampolin am Strand .
+Target: A woman does a somersault on a trampoline on the beach .
+Prediction: A woman does a flip on a trampoline at the beach .
+
+Input: Ein Mann steht bei einigen Spielautomaten in einer Bar .
+Target: A man is standing by a group of video games in a bar .
+Prediction: A man stands near some drums inside bar .
+
+Input: Eine Frau verwendet eine Bohrmaschine während ein Mann sie fotografiert .
+Target: A woman uses a drill while another man takes her picture .
+Prediction: A woman using a drill while a man photographs them photographs her .
+
+Input: Eine Frau in einem pinken Pulli und einer Schürze putzt einen Tisch mit einem Schwamm .
+Target: A woman in a pink sweater and an apron , cleaning a table with a sponge .
+Prediction: A woman in a pink sweater and apron cleaning a table with a brown and holding a sponge
+
+Input: Ein Mann schneidet Äste von Bäumen .
+Target: A man cutting branches of trees .
+Prediction: A man cuts tree branches from trees .
+
+Input: Eine Gruppe Asiatischer Jungen wartet am Grill darauf , dass Fleisch gar wird .
+Target: Group of Asian boys wait for meat to cook over barbecue .
+Prediction: A group of Asian young people waiting at the grill outside his face
+
+Input: Frauen , die traditionelle Kleidung tragen , spielen das Leben Einheimischer nach .
+Target: Women , wearing traditional clothing , are <unk> native life .
+Prediction: Women wearing traditional clothing playing soccer after the life of life .
+
+Input: Ein Mann drückt den Kopf eines anderen Mannes nach unten und will ihm ins Gesicht schlagen .
+Target: One man holds another man 's head down and prepares to punch him in the face .
+Prediction: A man pushes head down another man to hit the face .
+
+Input: Sechs Leute fahren Mountainbikes durch eine <unk> .
+Target: Six people ride mountain bikes through a jungle environment .
+Prediction: Six people riding mountain bike through a sprinkler .
+
+Input: 2 blonde Mädchen sitzen auf einem Absatz auf einem belebten Platz .
+Target: 2 blond girls are sitting on a ledge in a crowded plaza .
+Prediction: 2 blond girls sit on a ledge onto a busy plaza in a busy
+
+Input: Ein Kind planscht im Wasser .
+Target: A child is splashing in the water
+Prediction: A child splashing in the water .
+
+Input: Drei Leute sitzen an einem Picknicktisch vor einem Gebäude , das wie der Union Jack bemalt ist .
+Target: Three people sit at a picnic table outside of a building painted like a union jack .
+Prediction: Three people sit at a picnic table in front of a building that reads n't see wooden .
+
+Input: 3 Jungen stehen in ihren Badehosen auf einem Pier .
+Target: 3 boys are standing on a pier in their bathing suits .
+Prediction: 3 boys in their swim trunks stand on a pier .
+
+Input: Ein Angestellter reicht einer Frau auf einem Markt eine Tüte , während sie auf Eis <unk> Fisch begutachtet .
+Target: An employee is handing a woman a bag while she is browsing through fish on ice at a street market .
+Prediction: A man hands hands a bag of bag while hanging out on ice cream in a market .
+
+Input: Eine schöne Frau spielt auf einer Harfe .
+Target: A pretty woman plays a <unk> .
+Prediction: A beautiful woman playing on a harp .
+
+Input: Vor einem Gebäude sieht ein uniformierter Sicherheitsbeamter hinter einem Zaun in die Kamera .
+Target: Outside a building , a uniformed security guard looks at the camera from behind a fence .
+Prediction: A building looks at a view of water as a building looks at the camera from behind a
+
+Input: Die junge Dame sieht auf die Pizza .
+Target: The young lady is looking at the pizza .
+Prediction: The young lady is looking at pizza .
+
+Input: Ein Mann mit freiem Oberkörper und Shorts steht auf ein paar Steinen und angelt .
+Target: A shirtless man in shorts is fishing while standing on some rocks .
+Prediction: A shirtless man wearing shorts and shorts is standing on some rocks and fishing
+
+Input: Ein Mädchen in einer Rettungsweste treibt im Wasser .
+Target: A girl wearing a life vest floats in water .
+Prediction: A girl in a life jacket floating in water .
+
+Input: Ein Mann in Uniform und ein Mann in einem blauen Hemd stehen vor einem Wagen .
+Target: A man in uniform and a man in a blue shirt are standing in front of a truck .
+Prediction: A man in a uniform and a man in a blue shirt standing in front of a cart cart .
+
+Input: Leute sitzen in einem Zug .
+Target: People sit inside a train .
+Prediction: People sitting on a train .
+
+Input: Ein Junge schaukelt mit den Füßen in der Luft in einem Wald .
+Target: A kid swings with his feet up in the air in a forest .
+Prediction: A boy swings at his feet in a forest in a forest .
+
+Input: Ein Mann in einem roten Hemd betritt ein <unk> .
+Target: A man in a red shirt entering an establishment .
+Prediction: A man in a red shirt entering a golf pipe .
+
+Input: Zwei Männer in Badehosen springen auf einem <unk> belebten Strand in die Luft .
+Target: Two men wearing swim trunks jump in the air at a moderately populated beach .
+Prediction: Two men in swim trunks jumping up on a BMX beach in the air .
+
+Input: Ein kleines Kind kocht mit einer anderen Person .
+Target: A toddler is cooking with another person .
+Prediction: A young child is cooking with another person .
+
+Input: Eine <unk> und zwei Kinder machen vor ihrem Zuhause Gartenarbeit wie den Rasen mit einer <unk> zu bearbeiten und einen Baum zu pflanzen .
+Target: A father - figure and two children outside their home doing yard work such as using a hoe on the grass and planting a tree .
+Prediction: A BMX bike rider and two children making funny faces with a vacuum cleaner on the lawn and a plant .
+
+Input: Ein Mann bereitet am Herd Essen zu .
+Target: A man cooking food on the stove .
+Prediction: A man is preparing food at the stove .
+
+Input: Ein Mann in Jeans spielt an einem Strand mit einem roten Ball .
+Target: A man in jeans at the beach playing with a red ball .
+Prediction: A man in jeans playing with a red ball on a beach .
+
+Input: Leute gehen auf einem Gehsteig neben einer Reihe von Geschäften .
+Target: People walking down sidewalk next to a line of stores .
+Prediction: People walk on a sidewalk next to a row of shops .
+
+Input: Ein Wakeboarder macht einen Salto während er bei hoher Geschwindigkeit an einem Seil gezogen wird .
+Target: A wakeboarder performs a flip while being towed at high speed .
+Prediction: A sports game is doing a flip while being pulled by a high
+
+Input: Eine große Menschenmenge füllt eine Straße .
+Target: A large group of people fill a street .
+Prediction: A large crowd of people filling a street .
+
+Input: Ein Mann an einem <unk> geht ins Wasser .
+Target: A man on a tag line going into the water .
+Prediction: A man at a BMX bike walks into the water .
+
+Input: Eine Frau in Jeans läuft vor einem Bus vorbei , auf dem eine Werbung eine Frau zeigt , die über den Rand ihrer Sonnenbrille blickt .
+Target: A woman in jeans walks by a bus with an ad depicting a woman peering over her sunglasses .
+Prediction: A woman in jeans is walking by a bus that is pointing to a woman who is looking over her
+
+Input: Ein Mann in einem pinken Hemd sitzt auf dem Gras und ein Ball ist in der Luft .
+Target: A man in a pink shirt is sitting in the grass and a ball is in the air .
+Prediction: A man in a pink shirt is sitting on the grass holding a ball in midair .
+
+Input: Ein am Strand <unk> Auto .
+Target: A car parked at the beach .
+Prediction: A beach volleyball player is sniffing a car
+
+Input: Zwei Männer in Schwarz in einer Stadt
+Target: Two men wearing black in a city
+Prediction: Two men in black in a city .
+
+Input: Der Mann in der gelben Hose hebt seine Arme .
+Target: The man in the yellow pants is raising his arms .
+Prediction: The man in the yellow pants raises his arms .
+
+Input: Zwei Männer mit Hüten und Spazierstöcken schlendern neben einem Gewässer bei Sonnenuntergang .
+Target: Two men wearing hats and using walking sticks are walking near a body of water during <unk> .
+Prediction: Two men with hats and sticks walking near a body of water at sunset .
+
+Input: Ein <unk> macht eine Übung auf Stühlen .
+Target: A cheerleading team doing a routine on chairs .
+Prediction: A BMX bike rider is doing a routine on chairs
+
+Input: Ein Junge spielt mit einem Erwachsenen außerhalb des Bildes Dame während ein Mädchen zusieht .
+Target: A boy is playing checkers with an adult shown off - screen while a girl looks on .
+Prediction: A boy is playing with an adult picture of the frame while a young girl watches .
+
+Input: Eine Gruppe Menschen , die sich in einem öffentlichen Park amüsieren wollen .
+Target: A crowd of people out for some fun in public park .
+Prediction: A group of people are having fun in a public park .
+
+Input: Ein Mann sitzt auf einer Bank während er seinen Hund hält und aufs Wasser blickt .
+Target: A man sits on a bench holding his dog and looking at the water .
+Prediction: A man sits on a bench while holding his dog looking at the water .
+
+Input: Ein Junge und sein jüngerer Bruder spielen gemeinsam auf einem Spielplatz .
+Target: A boy and his younger brother playing together at the playground .
+Prediction: A boy and his younger brother are playing together at a playground playground
+
+Input: Ein blau gekleidete Frau sieht in eine schwarze <unk> während sie an einem sonnigen Nachmittag auf einer Bank sitzt und Menschen und Autos hinter ihr <unk> .
+Target: A woman in blue looks in a black leather bag while sitting on a bench during a sunny afternoon while people and <unk> passed behind her .
+Prediction: A woman in blue looks at a black plastic mask while sitting on a sunny afternoon with cars behind her .
+
+Input: Der braune Hund steht auf dem Sandstrand .
+Target: The brown dog is standing on the sandy beach .
+Prediction: The brown dog stands on the sandy beach .
+
+Input: Eine Frau Sitzt mit einem Korb voller Stoff , umgeben von Stoff .
+Target: A woman is sitting with a basket of cloth , surrounded by cloth .
+Prediction: A woman is spinning a basket full of fabric surrounded by fabric while surrounded by
+
+Input: Ein Mann grillt im Freien in seinem Hof .
+Target: A man is grilling out in his backyard .
+Prediction: A man grilling outside in his yard .
+
+Input: Eine Frau singt in einem Klub mit einem Gitarristen hinter ihr .
+Target: A woman sings in a club with a guitarist behind her .
+Prediction: A woman is singing in a club with a guitar player behind her
+
+Input: Gitarristin spielt in einem <unk> auf einer roten Gitarre .
+Target: Guitar player performs at a nightclub red guitar .
+Prediction: A female guitarist in a BMX bike is playing a
+
+Input: Ein Kind sitzt auf einem Gartenstuhl und sieht zur Kamera auf
+Target: A child sitting on a lawn chair looking up at the camera
+Prediction: A child sitting in a lawn chair outside looking at the camera .
+
+Input: Zwei Frauen und drei Männer blicken auf den Ozean .
+Target: Two ladies and three men looking at the ocean .
+Prediction: Two women and three men are looking at the ocean .
+
+Input: Eine <unk> mit einer Violine spielt auf der Straße während eine Frau mit einer blauen Gitarre zusieht .
+Target: A female performer with a violin plays on a street while a woman with a blue guitar looks on .
+Prediction: A BMX bike rider is playing a violin while a woman with a blue guitar watches .
+
+Input: Ein junges Mädchen schwimmt in einem Pool
+Target: A young girl swimming in a pool
+Prediction: A young girl swimming in a pool .
+
+Input: Mehrere Kinder sind im Freien und bereiten sich auf Tauziehen vor .
+Target: Several children are outdoors getting ready to play tug - of - war .
+Prediction: Several children are outside preparing for tug - of - war in front of them
+
+Input: Drei Teenager in einer U-Bahn albern herum .
+Target: Three teenagers in a subway playing around .
+Prediction: Three teenagers are in a subway subway being sprayed
+
+Input: Ein brauner Hund läuft durchs Gras und seine Zunge hängt heraus .
+Target: A brown dog walks in the grass with its tongue hanging out .
+Prediction: A brown dog is running through the grass and his tongue hanging out .
+
+Input: Leute sitzen vor einem Gebäude im Gras und machen Pause .
+Target: People sitting in the grass outside a building , taking a break .
+Prediction: People sitting in the grass outside of a building taking a break .
+
+Input: Mann ohne Hemd starrt vor einem Café in die Ferne während drei Frauen an einer Menschenmenge vorbeigehen .
+Target: Shirtless guy staring off in the distance while three woman are walking past a crowd sitting outside a cafe .
+Prediction: Man with no shirt staring into the distance outside of a cafe with three women by a crowd .
+
+Input: Zwei Jungen packen Obst auf das Fahrrad .
+Target: Two young boys putting fruit on the bike .
+Prediction: Two boys are picking fruits fruits for the bicycle .
+
+Input: Ein Mann in einem schwarzen T-Shirt spielt Trommel auf einem umgedrehten gelben Kübel .
+Target: A man in a black t - shirt , cap and jeans is playing drums on an upside down yellow pail .
+Prediction: A man in a black t - shirt plays a drum that is made of yellow bucket .
+
+Input: Eine junge Künstlerin malt ein Bild einer Frau auf eine Wand .
+Target: A young female artists paints an image of a woman on a wall .
+Prediction: A young artist is painting a picture of a woman on a wall .
+
+Input: Zwei Spielerinnen der <unk> klatschen im Sprung ab , umgeben von zwei weiteren Spielerinnen .
+Target: Two female members of team USA performing a jump high - five surrounded by two other female members .
+Prediction: Two female players from the BMX team wearing a jump surrounded by two other players .
+
+Input: Ein Mann rührt in einem Topf in seiner Küche .
+Target: A man stirring a pot of liquid in this kitchen .
+Prediction: A man stirring stirring the computer in a pot of his kitchen
+
+Input: Ein Junge beim Wakeboarden auf dem See .
+Target: The boy is wakeboarding on the lake .
+Prediction: A boy gets wakeboard on the lake .
+
+Input: Ein Mann arbeitet an einem Hotdog-Stand .
+Target: A man is working a hotdog stand .
+Prediction: A man works at a hotdog booth .
+
+Input: Eine große Gruppe von Menschen unterschiedlichen Alters und <unk> sitzt gemeinsam im Freien .
+Target: A large group of people of various ages and <unk> sit outside together .
+Prediction: A large group of people of different ages and neck hats sit together outdoors .
+
+Input: Eine blonde Frau schenkt an einer Bar Getränke ein .
+Target: A blond - haired woman is pouring drinks at a bar .
+Prediction: A blond woman is pouring drinks at a bar .
+
+Input: Ein kleines Kind in einem blau-weißen T-Shirt hält glücklich einen gelben <unk> .
+Target: A small child wearing a blue and white t - shirt happily holding a yellow plastic alligator .
+Prediction: A young child in a blue and white t - shirt holds a yellow toy coach .
+
+Input: Eine schwarz gekleidete Frau mit rosa Haaren spricht mit einem Mann .
+Target: A woman with pink hair dressed in black talks to a man .
+Prediction: A woman in black with pink hair is talking to a man .
+
+Input: Der Mann im japanischen <unk> bereitet ein Essen für zwei Personen zu .
+Target: The man in a Japanese cooking suit is preparing a meal for two people .
+Prediction: The man in the Japanese Japanese coat is preparing a food for two people .
+
+Input: Ein Mädchen springt von Fels zu Fels über den Bach .
+Target: A girl hops across the river , from rock to rock .
+Prediction: A girl jumps rocks to rocks over the creek .
+
+Input: Ein Arbeiter mit <unk> kniet neben zwei Frauen .
+Target: A male worker with his tool box is kneeling next to two women .
+Prediction: A worker with his skateboard mask kneels by two women .
+
+Input: Ein älterer Mann breitet seine Arme aus und blickt <unk> .
+Target: An older man is opening his arms wide and looking perplexed .
+Prediction: An older man is laying out his arms and looking out at his
+
+Input: Ein Kind in einem weißen Karateanzug übt eine Bewegung .
+Target: A child in a white karate outfit practicing a move
+Prediction: A child in a white karate uniform is practicing a move
+
+Input: Drei Männer in <unk> Westen halten sich im Freien auf .
+Target: Three men in same colored vests are in the outdoors .
+Prediction: Three men in gray vests and vests holding outdoors .
+
+Input: Eine Frau macht ein Bild von einem Baby mit rosa Mütze , das von einem Mann getragen wird .
+Target: A woman takes a picture of a baby wearing a pink hat while a man carries her .
+Prediction: A woman is taking a picture of a baby wearing pink cap being held by a man .
+
+Input: Eine Gruppe überwiegend asiatischer Kinder sitzt in <unk> verteilt auf blauen Stühlen .
+Target: A group of mostly asian children sitting at <unk> in blue chairs .
+Prediction: A group of mostly mostly children are sitting in plastic seats in a blue
+
+Input: Ein kleiner Junge im Fußballdress hält die Hände vors Gesicht und weint .
+Target: A young boy in a soccer uniform crying into his <unk> .
+Prediction: A young boy in a soccer uniform holds his hands up and crying
+
+Input: Eine glückliche Frau bereitet in einem <unk> eine <unk> zu .
+Target: A happy woman is preparing a <unk> at a coffee shop .
+Prediction: A happy woman in a sprinkler shirt prepares a toy dish .
+
+Input: Ein Bauarbeiter bewegt schweres Gerät auf einer Baustelle .
+Target: A construction worker is driving heavy equipment at a work site .
+Prediction: A construction worker moving tools on a construction site .
+
+Input: Eine Frau läuft beim Softball nach einem <unk> Schlag los während die <unk> sich erhebt .
+Target: A woman runs after making a hit in women 's softball , the catcher rises to her feet .
+Prediction: A woman is running after a golf ball , taking off his knees while he gives the plant .
+
+Input: Ein Mann in Arbeitskleidung reicht einer anderen Person ein Werkzeug .
+Target: A man in a work uniform passing a tool to another person .
+Prediction: A man in work clothing hands another person tools .
+
+Input: Eine Gruppe klettert bei kaltem Wetter .
+Target: A group of people are climbing in cold weather .
+Prediction: A group of climbing on a cold weather weather .
+
+Input: Ein Bergsteiger mit einem blauen Helm beginnt mit dem <unk> .
+Target: A <unk> about to descend down a mountain with a blue helmet on .
+Prediction: A rock climber with a blue helmet begins to board his chest .
+
+Input: Ein Mann macht einen Handstand auf einer runden Skulptur .
+Target: A man doing handstand on top of a round statue .
+Prediction: A man doing a handstand on a round sculpture .
+
+Input: Ein Kind sitzt an einem Restauranttisch und hält eine <unk> vors Gesicht .
+Target: A child sitting at a restaurant table holding a paper mask against his face .
+Prediction: A child sitting at a restaurant table holding a toy basket .
+
+Input: Ein brauner Hund watet in einen See , um einen Stock zu holen .
+Target: A brown dog wades into a lake to retrieve a stick .
+Prediction: A brown dog wading into a lake to get a stick .
+
+Input: Eine Mutter bringt ihren zwei kleinen Söhnen an einer felsigen Küste mit sehr blauem Wasser das Angeln bei .
+Target: A mother teaches her two young boys to fish off of a rocky coast into very blue water .
+Prediction: A mother is taking her two small son by a rocky ocean with very fishing water .
+
+Input: Ein kleines Kind läuft neben roten Stühlen .
+Target: A little kid is walking next to red banners .
+Prediction: A small child walking next to red chairs .
+
+Input: Ein Mädchen sitzt mit einem kleineren Jungen auf einem dekorierten Fahrrad während ein weiteres Mädchen ein Foto macht .
+Target: A girl sits on a decorated bike with a younger boy while another girl takes a picture .
+Prediction: A girl is sitting on a decorated bike with a smaller boy is taking a picture .
+
+Input: Ein Schwarzer Hund holt einen Ball im Wasser .
+Target: A black dog is retrieving a ball in water .
+Prediction: Black dog catches a ball in the water .
+
+Input: Ein Mann in weißen Hosen und einem blauen Hemd tritt gegen einen gelben Boxsack .
+Target: A man in white pants and a blue shirt is kicking a yellow boxing bag .
+Prediction: A man in white pants and a blue shirt is kicking a yellow tiger against a yellow
+
+Input: Zwei indische Männer nehmen an einer Zeremonie teil .
+Target: Two Indian men participating in a ceremony .
+Prediction: Two Indian men are taking part in a ceremony
+
+Input: Ein Junge mit <unk> Nase und <unk> Händen steht in einer Videothek .
+Target: A boy with a <unk> nose and writing on his hands is standing in a video rental store .
+Prediction: A boy with his nose and screaming hands in a video store video store .
+
+Input: Zwei Silhouetten paddeln in einem Kanu auf dem Ozean bei Sonnenuntergang .
+Target: Two silhouetted people paddle a canoe on the ocean during sunset .
+Prediction: Two can be paddling in a canoe on the ocean during sunset .
+
+Input: Menschen stehen in einer vollen U-Bahn , der Bahnsteig draußen ist durch das Fenster zu sehen .
+Target: People are standing on a crowded subway , and the platform outside is visible through the window .
+Prediction: People stand in a crowded subway platform outside .
+
+Input: Mann erklettert Mauer mit Feuer in der Hand
+Target: Man scaling wall with fire in hand
+Prediction: Man climbing wall with fire in his hand
+
+Input: Zwei braune Hunde rennen durch den Schnee .
+Target: Two brown dogs are running through the snow .
+Prediction: Two brown dogs run through the snow .
+
+Input: <unk> einer kleinen Band , die für ein <unk> spielt .
+Target: On stage photo of small band performing for theater audience .
+Prediction: A BMX band playing for a toy mask on his or toy
+
+Input: Ein Baby im <unk> blickt in die Kamera .
+Target: A baby in a Christmas outfit looks at the camera .
+Prediction: A baby in a bath , looking at the camera , in
+
+Input: Ein Mann Sitzt neben einem Computermonitor .
+Target: A man is sitting next to a computer monitor .
+Prediction: A man is looking at his computer computer by a man
+
+Input: Diese Frau hat gerade einen lustigen Witz gehört und lacht .
+Target: This lady has heard a funny joke and laughing .
+Prediction: This woman is just got at a funny station , laughing
+
+Input: Personen in einem Gebäude , eine von ihnen macht ein Foto .
+Target: People inside of a building , one is taking a photo .
+Prediction: People in a building , one of them taking a picture .
+
+Input: Vier weiße Hunde mit Maulkörben springen über eine rote Wand .
+Target: Four white dogs with muzzles jump over a red wall .
+Prediction: Four white dogs wearing muzzles jumping over a red wall .
+
+Input: Die Frau im blauen Shirt hält ein Baby .
+Target: The woman with the blue shirt is holding a baby .
+Prediction: The woman in the blue shirt is holding a baby .
+
+Input: Zwei Personen sitzen auf gestreiften Liegestühlen und angeln in einem Gewässer .
+Target: Two people are sitting fishing on striped beach chairs in a body of water .
+Prediction: Two people are sitting on striped lawn and fishing in a body of water .
+
+Input: Eine alte Frau sitzt an einem Webstuhl und stellt Stoff her .
+Target: An old woman working at a loom making cloth .
+Prediction: An old woman is sitting at a loom making fabric .
+
+Input: Ein Junge im Vordergrund blickt über andere Personen auf einem Platz .
+Target: A boy standing in the foreground looking out over other people in a court .
+Prediction: A boy in the foreground is looking across the other people in the foreground .
+
+Input: Ein Mann in einer blauen Jacke hält einen Jungen an der Schulter .
+Target: A man in a blue coat grabbing a young boy 's shoulder .
+Prediction: A man in a blue jacket holds a boy 's shoulder .
+
+Input: Drei braune Hunde springen an der blau gekleideten Frau hoch .
+Target: Three brown dogs are jumping up at the woman wearing blue .
+Prediction: Three brown dogs jump up in blue in the blue .
+
+Input: Ein Junge hängt aus dem Fenster eines vorbeifahrenden Taxis .
+Target: A boy hangs out of a passing taxi cab window
+Prediction: A boy hangs out of the window of a car along
+
+Input: Ein Mann in einem grauen Shirt springt über die Spitze einer Sanddüne in der Wüste .
+Target: A man in a gray shirt jumps over the top of a sand dune in the desert .
+Prediction: A man in a gray shirt jumps over the top of a sand dune in the desert .
+
+Input: Ein Kind in einem gelben Shirt springt <unk> und runter .
+Target: A child wearing a yellow shirt is jumping up and down .
+Prediction: A child in a yellow shirt jumps up and down a pipe .
+
+Input: Ein Arbeiter in einer gelben Jacke wird auf ein Gebäude gehoben , um zu arbeiten .
+Target: A worker in a yellow jacket is hoisted up high to work on a building .
+Prediction: A worker in a yellow jacket is being lifted to work on a building .
+
+Input: Ein Mann in Brasilien unterhält sich mit jungen Erwachsenen .
+Target: A man in Brazil giving an informal talk to young adults .
+Prediction: A man in a matching suit is talking with young adults .
+
+Input: Ein paar <unk> in einer Bar mit <unk> an der Decke .
+Target: A bunch of beer pull <unk> at a bar with Christmas lights on the ceiling .
+Prediction: A bunch of motorcyclists in a bar with no neck attached by the ceiling .
+
+Input: Ein Mann seilt sich an einer Klippe über dem Ozean ab .
+Target: A man is <unk> down a cliff over the ocean .
+Prediction: A man is rappelling down a cliff over the ocean side .
+
+Input: Ein Mann in schwarz geht im Schnee zu seinem Fahrzeug .
+Target: A man in black is walking to his truck in the snow .
+Prediction: A man in black is walking in the snow to his vehicle .
+
+Input: Ein <unk> springt nach einem Ball .
+Target: A <unk> terrier leaps after a ball .
+Prediction: A BMX bike rider jumps after a ball .
+
+Input: Eine Polizistin mit Mütze und blauer Uniform trägt eine Sonnenbrille und lächelt vor einem Geschäft .
+Target: A female police officer in a cap and navy uniform smiles while wearing sunglasses outside of a shop .
+Prediction: A police officer in a cap and blue uniform is wearing sunglasses and smiling in front of a store .
+
+Input: Eine Familie spaziert durch einen Park .
+Target: A Family going for a walk in a park .
+Prediction: A family takes walk through a park .
+
+Input: Ein Mann mit einem grünen Schutzhelm und Sicherheitsweste blickt <unk> .
+Target: A man in a green hard hat and yellow safety vest frowns .
+Prediction: A man in a green hard hat and safety vest looks up at his
+
+Input: Ein Kind mit pinken Fäden auf dem Kopf tanzt umgeben von Konfetti und Ballons .
+Target: Child with pink strings on head dancing surrounded by confetti , balloons .
+Prediction: A child wearing pink held up carrying mountains surrounded by confetti and balloons .
+
+Input: Ein Hund mit <unk> <unk> nach etwas an einem Flussufer .
+Target: A dog with a <unk> nose <unk> for something on a riverbank .
+Prediction: A dog with a shaved head wrapped up after making something on a river
+
+Input: Ein Mann bereitet seinen Stand für das <unk> vor .
+Target: A man prepares his local stand for the <unk> business .
+Prediction: A man prepares his booth for the attention of his booth .
+
+Input: Ein Mann in einem roten Hemd schickt sich an , einen <unk> zu essen .
+Target: A man in a red shirt is about to eat a <unk> .
+Prediction: A man in a red shirt is about to eat a toy cart .
+
+Input: Eine junge Dame in weiß hält einen Tennisschläger .
+Target: A young lady in white holding a tennis racket
+Prediction: A young lady in white holding a tennis racket .
+
+Input: Ein Junge in einem roten Shirt gräbt mit einer gelben Schaufel im Sand .
+Target: A boy wearing a red shirt digs into the sand with a yellow shovel .
+Prediction: A boy in a red shirt is digging in the sand with a yellow shovel .
+
+Input: Eine Person in einer rosa Jacke sitzt untätig auf einer hölzernen Bank .
+Target: An individual wearing rose jacket site idle on a wooden bench .
+Prediction: A person in a pink jacket sits on a wooden bench while sitting
+
+Input: Ein Mann in einem weißen Hemd blickt durch ein Fenster einer Metallkonstruktion .
+Target: A man wearing a white shirt is looking out a window of a metal construction .
+Prediction: A man in a white shirt looks through a window up a metal structure .
+
+Input: Eine Frau hält eine kleine weiße Statue .
+Target: A woman is holding a small white statue .
+Prediction: A woman holding a small white statue .
+
+Input: Sechs Kinder ohne Hemd spielen in natürlichem Gewässer und planschen .
+Target: Six shirtless children are playing in natural water and splashing around .
+Prediction: Six young children , playing in shallow water , splashing in body of
+
+Input: Zwei Personen fahren auf Fahrrädern durch eine <unk> .
+Target: Two people riding bikes through a mountainous region .
+Prediction: Two people riding bikes through a sprinkler toy .
+
+Input: Ein Mädchen beim Seilhüpfen auf dem Gehweg nahe einer Garage .
+Target: A girl jumping rope on a sidewalk near a parking garage .
+Prediction: A girl is rope on a sidewalk near a garage .
+
+Input: Ein Mann trägt ein orangefarbenes Shirt und einen Helm .
+Target: A man wearing an orange shirt and helmet .
+Prediction: A man is wearing an orange shirt and helmet .
+
+Input: Ein kleiner Junge spielt mit <unk> , Autos und Tieren während eine Erwachsene ihn aufmerksam beobachtet .
+Target: A small boy plays with plastic blocks , cars , and animals with an adult watching closely .
+Prediction: A young boy playing with a toy mask , and animals as an adult watches him watch him .
+
+Input: Ein kleines Mädchen , das ein <unk> auspackt .
+Target: A little girl opening a Christmas present .
+Prediction: A little girl making a bath made up of
+
+Input: Die blau gekleidete Frau bedient eine Kamera vor zwei anderen Frauen .
+Target: The woman in blue is operating a camera in front of two other women .
+Prediction: The woman in blue is operating a camera to operates two other women .
+
+Input: Ein kleines Mädchen versucht auf einem gemütlichen Sofa ein Nickerchen zu machen .
+Target: A little girl tries taking a nap on the <unk> sofa .
+Prediction: A little girl is trying to take a nap on a dance floor
+
+Input: Ein braun-schwarzer Hund läuft auf einem Pfad im Wald .
+Target: A brown and black dog running on a trail in the woods .
+Prediction: A brown and black dog running along a trail in the woods .
+
+Input: Zwei Hunde spielen an einem Baum .
+Target: Two dogs play by a tree .
+Prediction: Two dogs play by a tree .
+
+Input: Ein <unk> in einem schwarzen Mantel und Hose steigt Treppen während die Kamera auf den Hund <unk> .
+Target: A navy walking wearing a black coat and pants on the stairs as camera focuses on the dog
+Prediction: A BMX bike rider in a black coat and pants gets his arm out while the camera .
+
+Input: Zwei grün gekleidete Männer bereiten in einem Restaurant Essen zu .
+Target: Two men dressed in green are preparing food in a restaurant .
+Prediction: Two men in green are preparing food at a restaurant .
+
+Input: Ein Mann in schwarzem Leder und einem Cowboyhut schlendert auf einem <unk> .
+Target: A man dressed in black leather and a cowboy hat is walking around a Renaissance Festival .
+Prediction: A man in a black leather jacket and a cowboy hat strolls on a golf course .
+
+Input: Ein Hund läuft mit einem gelben Spielzeug im Freien .
+Target: A dog runs outside with a yellow toy .
+Prediction: A dog runs outside with a yellow toy outdoors .
+
+Input: Ein Hund , der einen Mantel trägt , läuft im Schnee .
+Target: A dog wearing a cover runs in the snow .
+Prediction: A dog wearing a coat runs in the snow .
+
+Input: Eine Familie spielt am Strand mit ihrem Hund .
+Target: A family is playing on the beach with their dog .
+Prediction: A family is playing on the beach with their dog with her
+
+Input: Eine Frau und ein Kind umarmen sich während das Kind kostet , was sie gerade gemeinsam zubereiten .
+Target: A woman and a child embrace while the child tastes what they have been making .
+Prediction: A woman and a child hug while the child takes a meal together .
+
+Input: Zwei Männer und eine Dame stehen im Freien .
+Target: Two men and a lady are standing outside .
+Prediction: Two men and a lady standing outdoors .
+
+Input: Eine Gruppe von Männern verwendet Baumstämme , um ein Boot aus dem Wasser zu schieben .
+Target: A group of men using logs to push a boat out of the water .
+Prediction: A group of men using logs to push over a boat to push water .
+
+Input: Ein Mann trinkt aus einem Weinglas während er eine Zeitung liest .
+Target: A man drinks from a wineglass while reading the paper .
+Prediction: A man drinking a broom while reading a newspaper .
+
+Input: Ein ganz in schwarz gekleideter Mann spielt Piano .
+Target: A man wearing a all black and playing a piano .
+Prediction: A man in all black playing piano .
+
+Input: Ein Junge in einem blauen Trikot und gelben Shorts spielt Fußball .
+Target: A young boy wearing a blue jersey and yellow shorts is playing soccer .
+Prediction: A boy in a blue jersey and yellow shorts playing soccer ball .
+
+Input: Ein Mann steht auf einem Stein und breitet seine Arme aus wie ein Vogel .
+Target: A man is standing on a stone structure with his arms out like a bird .
+Prediction: A man is standing on a rock laying down his arms out as a bird bird watches
+
+Input: Ein Hund trinkt draußen Wasser auf dem Gras .
+Target: A dog drinks water outside on the grass .
+Prediction: A dog drinks water outside on the grass .
+
+Input: Zwei Frauen in <unk> blicken in die Kamera .
+Target: Two women wearing tank tops are looking at the camera .
+Prediction: Two women in wetsuits looking into the camera .
+
+Input: Ein Mann sitzt im Friseurstuhl und bereitet sich auf eine <unk> vor .
+Target: A man is sitting in a barber 's chair getting ready for a shave .
+Prediction: A man sits in a barber shop chair getting ready to throw a toy basket .
+
+Input: Ein kleines Kind in grünen Stiefeln spielt in einer Schlammpfütze .
+Target: A young child wearing green boots playing in a mud puddle
+Prediction: A young child in green boots playing in a mud puddle in
+
+Input: Ein Mann schneidet Holz mit einer Kettensäge .
+Target: A man using a chainsaw to cut lumber .
+Prediction: A man cuts wood with a chainsaw with a chainsaw
+
+Input: Ein Mann sitzt an einem Picknicktisch mit einem Tablett und halb <unk> Bier vor sich .
+Target: A man sitting at a picnic table with a tray and partially <unk> beer in front of him .
+Prediction: A man is sitting at a picnic table with a tray equipment half against him .
+
+Input: Der Junge im schwarzen T-Shirt und blauen Jeans hält einen roten Baseballschläger .
+Target: The boy wearing a black shirt and blue jeans is holding a red baseball bat .
+Prediction: The boy in the black t - shirt and blue jeans is holding a red baseball bat
+
+Input: Ein dunkelhaariger Mann mit Bart , Brille und Hawaiihemd sitzt auf dem Gras .
+Target: A dark - haired bearded man in glasses and a Hawaiian shirt is sitting on the grass .
+Prediction: A dark - haired man with glasses and a Hawaiian shirt sits on the grass .
+
+Input: Hunde Laufen auf einer Hunderennbahn .
+Target: Dogs run at a dog racetrack .
+Prediction: Dog running dog along dog dog dog dog
+
+Input: Ein <unk> mit <unk> richtet einen Scheinwerfer über einen Balkon .
+Target: A light technician man with tribal tattoos aiming a spotlight over a balcony .
+Prediction: A BMX bike rider , wearing a half shirt , adjusting a light ladder .
+
+Input: Zwei Deutsche Schäferhunde <unk> einander an .
+Target: Two German <unk> snarling at each other .
+Prediction: Two German Shepherd dogs face each other at each
+
+Input: Das ist eine Gruppe von Leuten , die auf einem Event herumstehen .
+Target: This is a group of people standing around at some sort of event .
+Prediction: This is a group of people standing around at a carnival performance .
+
+Input: Ein braun-weißer Hund holt ein Spielzeug .
+Target: A brown and white dog fetching a toy .
+Prediction: A brown and white dog is preparing a toy and
+
+Input: Ein weißhaariger Mann spielt Akkordeon zwischen ein paar Gebäuden .
+Target: Man with white hair playing an accordion in the middle of some buildings .
+Prediction: A white - haired man is playing the accordion between some buildings .
+
+Input: Eine Frau mit braunen Haaren sitzt auf einer Bank vor einem Café .
+Target: A woman with brown hair sitting on a bench outside a cafe .
+Prediction: A woman with brown hair is sitting on a bench outside of a cafe
+
+Input: Ein Mann spielt neben einem Fahrrad <unk> .
+Target: A man next to a bicycle is playing a pan flute .
+Prediction: A man playing his bike next to a bicycle toy .
+
+Input: Zwei Kinder balancieren auf einem Stamm und halten ein Seil .
+Target: Two kids are balancing on a log and holding a rope .
+Prediction: Two children are balance on a trunk holding a rope and holding a
+
+Input: Ein Mann auf einem Motorrad zeigt einen Trick auf einer Rennstrecke .
+Target: A man riding a motorcycle is performing a trick at a track .
+Prediction: A man on a motorcycle is performing a trick on a track .
+
+Input: Eine junge Frau mit einem <unk> Tuch über dem Gesicht entspannt auf einem hölzernen Deck .
+Target: A young woman with a purple cloth hiding her face relaxes on a wooden deck .
+Prediction: A young woman wearing a shaved head around over her face relaxing on a wooden deck .
+
+Input: Die Frau im braunen Shirt sitzt auf einer hellroten Bank .
+Target: The woman in the brown shirt is sitting on a bright red bench .
+Prediction: The woman in the brown shirt is sitting on a bright red bench .
+
+Input: Ein Hund läuft auf einem Baumstamm über einen kleinen Fluss .
+Target: A dog walks on a log across a small river .
+Prediction: A dog runs along a small river over a small river .
+
+Input: Ein junger Mann in einem weißen T-Shirt und grün-schwarzen Shorts steht auf einem Pfeiler .
+Target: A young man wearing a white t - shirt and green and black shorts standing on a stump .
+Prediction: A young man in a white t - shirt and black shorts stands on a stoop .
+
+Input: Alle Personen in der Gruppe stehen unter Regenschirmen .
+Target: The group of people are all covered by umbrellas .
+Prediction: All of people in the crowd under umbrellas .
+
+Input: Ein Mann macht Werbung mit einem riesigen Schild , das auf sein Fahrrad gebunden ist .
+Target: A man <unk> with a giant sign tied onto his bicycle .
+Prediction: A man is making an advertisement with a giant sign that is around
+
+Input: Ein Mann wirft einen Ast in einen Kanal während zwei Hunde zusehen .
+Target: A man is throwing a log into a waterway while two dogs watch .
+Prediction: A man throws a tree branch in a canal while two dogs watch .
+
+Input: Gruppe älterer Menschen , die in einem Zelt am Wasser Instrumente spielen .
+Target: Group of elders playing instruments under a tent by the water .
+Prediction: Group of elderly people playing instruments by the water in a tent .
+
+Input: Eine Ansicht einer belebten Straße in der Stadt .
+Target: A view of a crowded city street .
+Prediction: A view of a busy city street in the
+
+Input: Eine junge blonde Frau hält ein weißes Seil an einem sonnigen Tag .
+Target: A young blond woman holds a white rope on a sunny day .
+Prediction: A young blond woman holds a white rope on a sunny day .
+
+Input: Zwei Personen in blauen Hemden stehen mit einem Megafon im Freien .
+Target: Two people in blue shirts are outside with a bullhorn .
+Prediction: Two people in blue shirts stand outdoors with a megaphone outdoors .
+
+Input: Ein schwarzer Hund springt in einen Pool .
+Target: A black dog <unk> up into a pool .
+Prediction: A black dog jumps into a pool .
+
+Input: Ein Cowboy reitet ein Wildpferd in einem Wettbewerb .
+Target: A cowboy riding on the back of a bronco in a competition .
+Prediction: A cowboy is riding a bucking bull in a competition .
+
+Input: Eine Gruppe von <unk> macht Wartungsarbeiten an Bahngleisen .
+Target: A railroad work crew performs maintenance on railroad tracks .
+Prediction: A group of motorcyclists doing maintenance on railroad tracks .
+
+Input: Ein Arbeiter in einer orangefarbenen Weste arbeitet mit einer Schaufel .
+Target: A worker in an orange vest is using a shovel .
+Prediction: A worker in an orange vest is working with a shovel .
+
+Input: Zwei Bauarbeiter diskutieren auf einer Baustelle .
+Target: Two construction workers have a discussion while on the work site .
+Prediction: Two construction workers are having a discussion at a construction site .
+
+Input: Drei Männer gehen bergauf .
+Target: Three men are walking up hill .
+Prediction: Three men walk together giving one of them
+
+Input: Eine asiatische Frau in einem Hochzeitskleid mit Blumenmuster posiert mit ihren Brautjungfern auf einer Brücke .
+Target: An Asian woman in a floral wedding dress poses on a bridge close to her bridesmaids .
+Prediction: An Asian woman in a wedding dress with her bridesmaids posing on a bridge in her bridesmaids .
+
+Input: Ein junger Mann stimmt seine Gitarre in der Küche .
+Target: A young man <unk> his guitar in the kitchen .
+Prediction: A young man is tuning his guitar in the kitchen .
+
+Input: Drei Jungen spielen mit <unk> und <unk> .
+Target: Three boys are playing with sponges and buckets of water .
+Prediction: Three boys playing with golf ball and neck mask .
+
+Input: Drei Arbeiter machen <unk> auf dem Gehsteig .
+Target: Three construction workers are <unk> pavement .
+Prediction: Three workers are doing tricks on the sidewalk
+
+Input: Leute entspannen in einem Wald neben Kanus .
+Target: People chilling in at forest next to canoes .
+Prediction: People relax in a forest next to canoes .
+
+Input: Ein Chor versammelt sich in einer Kirche .
+Target: A choir group is gathered together in a church .
+Prediction: A choir is gathered in a church .
+
+Input: Eine Gruppe Teenager springt bei Nacht in die Luft und macht lustige Posen für die Kamera .
+Target: A group of young teenagers are jumping at night making funny poses for the camera .
+Prediction: A group of teenagers jump in the air at night and making funny faces .
+
+Input: Zwei Männer fahren in Kajaks , eines orange und das andere blau , einen Fluss hinab .
+Target: Two guys are kayaking , one orange one blue , down a creek .
+Prediction: Two men are kayaking in orange , one orange and the other blue blue ,
+
+Input: Zwei Arbeiter streichen Zement auf einen Ziegelbau .
+Target: Two workers spread cement onto a brick building .
+Prediction: Two workers are painting cement on a brick building .
+
+Input: Eine Dame in einem rötlichen Sweater und Jeans sitzt mit den Händen auf ihrem linken Knie .
+Target: A lady wearing a <unk> sweater and jeans is sitting with hands on her left knee
+Prediction: A lady in a cold sweater and jeans is sitting with her left hand on her left
+
+Input: Zwei Schauspieler <unk> einen Kampf vor einen <unk> Publikum .
+Target: Two performers putting on a mock fight for an audience that is watching attentively .
+Prediction: Two performer 's head up a pit of his audience .
+
+Input: Ein Soldat entspannt und wartet auf einem Flughafen .
+Target: A <unk> relaxes and waits at an airport .
+Prediction: A soldier relaxing and waiting at an airport .
+
+Input: Ein Mann in einem gelben Mantel <unk> auf ein Feuer , ein Junge im Anorak sieht zu .
+Target: A man in a yellow coat tends a fire , a boy in a parka watches .
+Prediction: A man in a yellow coat is sniffing a fire on fire in shallow jacket .
+
+Input: Ein Mann und ein Junge auf einem felsigen Strand .
+Target: A man and a boy on a rocky beach .
+Prediction: A man and a boy on a rocky beach .
+
+Input: Eine Frau auf einem Boot namens " El <unk> " lässt schwarze Gewichte ins Wasser fallen .
+Target: A woman on a boat named " El <unk> " drops black weights into the water .
+Prediction: A woman on a boat named " ELOIN " gets done of black into the water .
+
+Input: Ein Junge sitzt auf einem Fernrohr und schaut hindurch .
+Target: A boy sitting on and looking out from a microscope .
+Prediction: A boy sits at a telescope looking looking at .
+
+Input: Ein barfüßiges junges Mädchen in einem rosa Kleid springt im Freien .
+Target: A young barefoot girl in a pink dress is jumping outside .
+Prediction: A barefoot young girl in a pink dress jumping outside .
+
+Input: Viele Menschen sitzen um ein Zelt im Freien .
+Target: Many people are sitting around a tent outside .
+Prediction: Many people sit around a tent outside .
+
+Input: Ein Jugendlicher in einem schwarzen T-Shirt mit dem Aufdruck " <unk> Pacific <unk> " sitzt und spielt eine Trommel .
+Target: A youth with a black shirt that says " Asian Pacific <unk> " plays a drum while sitting .
+Prediction: A youth in a black t - shirt number eight " mittens " and playing a drum with his hand
+
+Input: Ein Mann verkauft Waren am Rand der Straße , die zu einem <unk> Berg im Canyon führt .
+Target: A man selling items near the roadside to the great mountain of Canyon .
+Prediction: A man selling merchandise on the side of the street to a half covered mountain
+
+Input: Das Mädchen in Gelb lacht das Mädchen in Orange aus während das Mädchen in Blau zusieht .
+Target: The girl in yellow is laughing at the girl wearing orange whilst being watched by the girl in blue .
+Prediction: The girl in yellow laughs as the girl in orange watches her .
+
+Input: Ein Hund springt im Freien über ein Hindernis .
+Target: A dog jumps over an obstacle outside .
+Prediction: A dog jumps over an obstacle outside .
+
+Input: Hund mit schwarzem Halsband wälzt sich in Staub und trockenen Blättern .
+Target: Dog with black collar rolling in dirt and dried leaves
+Prediction: Dog with black collar rolling in dust and dry leaves .
+
+Input: Zwei braune Hunde spielen grob miteinander .
+Target: Two brown dogs playing in a rough manner .
+Prediction: Two brown dogs play in a rough rough field .
+
+Input: Ein Mann mit Schnurrbart und Bart hält eine Pfanne , aus der Flammen hochsteigen .
+Target: A man with a mustache and beard is holding a frying pan that has flames rising from it .
+Prediction: A man with a mustache and beard holds an advertisement out of an angel .
+
+Input: Ein Mann mit Kleidung aus dem <unk> schlägt eine Glocke .
+Target: A man , wearing <unk> period clothes , is <unk> a bell .
+Prediction: A man wearing a outfit made up mask is hitting a hammer .
+
+Input: Ein Mann in einem schwarzen Shirt angelt an einem felsigen Ufer .
+Target: A man in a black shirt fishing on a rocky shore .
+Prediction: A man in a black shirt fishing off a rocky shore .
+
+Input: Zwei Hunde beschnuppern sich gegenseitig Nase an Nase .
+Target: Two dogs are <unk> each other nose to nose .
+Prediction: Two dogs touching each other nose on nose .
+
+Input: Zwei Männer unterhalten sich auf dem Gehsteig während ein Auto vorbeifährt .
+Target: Two men stop to chat on the sidewalk as a car passes by .
+Prediction: Two men are talking on the sidewalk while a car passes by .
+
+Input: Ein Chinese sitzt und wartet auf Kundschaft .
+Target: A chinese man sitting down waiting for customers .
+Prediction: An older man sits and waits for customers .
+
+Input: <unk> Autos mit einem Schulbus dahinter .
+Target: <unk> cars with a school bus behind them .
+Prediction: A bunch of cars , with a school bus ,
+
+Input: Zwei Frauen in ähnlichen T-Shirts gehen nach links .
+Target: Two woman wearing similar shirts walk to the left .
+Prediction: Two women in similar similar t - shirts walk to the
+
+Input: Ein kleines Kind in einer orangefarbenen Rettungsweste hält ein Paddel und paddelt in einem blauen Kajak auf einem Gewässer .
+Target: A young child wearing an orange life vest holding an oar paddling a blue kayak in a body of water .
+Prediction: A small child wearing an orange life jacket holds a partially paddling and paddles on a blue kayak .
+
+Input: Menschen gehen auf einem Pfad in einem Park voller Bäume .
+Target: People walking on a trail in a tree filled park .
+Prediction: People walk on a path full of trees in a park .
+
+Input: Drei Jugendliche reden in einer Menschenmenge , die Frau blickt verärgert .
+Target: Three young adults talk in a crowd of people , the woman looks upset .
+Prediction: Three young people talk in a crowd looking at the woman .
+
+Input: Eine Frau und ein Kind vor der Tür ihres idyllischen Hauses .
+Target: Woman and child outside the front door of their scenic home .
+Prediction: A woman and a child in front of the door of her house
+
+Input: Ein schwarzer Mann und seine zwei weißen Freunde stecken die Köpfe zusammen .
+Target: A black man and his two white friends are putting their heads close together .
+Prediction: A black man and his two white friends have their heads together .
+
+Input: Eine junge Frau in Tarnhose sitzt auf einem <unk> .
+Target: A girl wearing camouflage pants sits on top of a <unk> .
+Prediction: A young woman in camouflage pants is sitting on a golf course .
+
+Input: Ein hellbrauner Hund läuft bergauf .
+Target: A light brown dog is running up .
+Prediction: A tan dog runs uphill .
+
+Input: Ein Junge posiert mit einem großen grünen Insekt auf der Nase .
+Target: A boy poses with a large green insect on his nose .
+Prediction: A boy poses with a large green Coca - shaped nose on his
+
+Input: Ein glatzköpfiger Mann demonstriert , wie hoch sein braun-schwarzer Hund springen kann .
+Target: A bald man <unk> how high his brown and black dog can jump .
+Prediction: A bald man is protesting as he shows high his black and brown dog can
+
+Input: Eine Menschenmenge auf einer geschäftigen Straße bei Tag .
+Target: A crowd on a busy daytime street .
+Prediction: A crowd on a busy city street during a
+
+Input: Ein Windhund mit Maulkorb in gelb und schwarz läuft auf der Strecke .
+Target: A muzzled greyhound dog wearing yellow and black is running on the track .
+Prediction: A muzzled greyhound in yellow and black runs on the course .
+
+Input: Ein Mann in Sandalen sitzt auf dem Gehsteig neben ein paar Taschen .
+Target: A man wearing sandals sits on the sidewalk near some bags .
+Prediction: A man wearing sandals sits on the sidewalk next to some bags .
+
+Input: Ein Mann und eine Frau sitzen an einem Zaun und unterhalten sich .
+Target: A man and a woman are sitting on the base of fence having a conversation .
+Prediction: A man and a woman sit by a fence talking .
+
+Input: Ein Kind sieht sich <unk> in einem Geschäft an .
+Target: A kid is looking at coffee machines inside a store .
+Prediction: A child looks at his face inside a store .
+
+Input: Ein Mann , der aus einer gelben Tasse <unk> , umgeben von Menschen auf einer geschäftigen Veranstaltung .
+Target: A man drinking out of a yellow cup around people at a busy event
+Prediction: A man who is surrounded by a yellow cup of people surrounded by people on
+
+Input: Ein Junge lehnt sich an ein Auto mit Blumen auf der Motorhaube .
+Target: A boy is leaning on a car with flowers on the hood .
+Prediction: A boy leans against a car with flowers on the hood of flowers .
+
+Input: Eine Frau in einem Kleid mit Blumenmuster spricht mit Kindern vor einem Kleinbus .
+Target: A woman in a floral dress talks to children in front of a van .
+Prediction: A woman in a floral dress is talking to children in front of a van in
+
+Input: Ein Mann an seinem Hochzeitstag .
+Target: A man on his wedding day .
+Prediction: A man on their day at the wedding
+
+Input: Eine junge Frau in einem schwarzen T-Shirt und Jeans beim Kehren .
+Target: A young woman with a black shirt and jeans sweeping .
+Prediction: A young woman in a black t - shirt and jeans is
+
+Input: Eine Frau mit einer Mütze klettert auf einer Klippe nahe eines großen Gewässers .
+Target: Woman with a hat on climbing a cliff near a large body of water .
+Prediction: A woman in a cap climbs on a cliff near a large body of water .
+
+Input: Ein großer schwarzer Pudel läuft auf dem Gras mit einem Spielzeug im Maul .
+Target: A big black poodle running on the grass with a toy in its mouth .
+Prediction: A large black poodle is running on the grass with a toy in its mouth .
+
+Input: Ein Junge in Shorts macht einen Skateboard-Trick .
+Target: A boy in shorts doing a skateboard trick .
+Prediction: A boy in shorts is doing a trick , the
+
+Input: Ein kleiner Junge in roten Hosen steht auf der Straße .
+Target: A little boy dressed in red pants is standing in the street .
+Prediction: A young boy in red pants is standing on the street .
+
+Input: Eine Frau tippt auf ihrem Handy , umgeben von Regenschirmen .
+Target: A woman texts on her phone while surrounded by umbrellas .
+Prediction: A woman typing on her cellphone surrounded by umbrellas .
+
+Input: Acht Männer spielen auf der Bühne , während ein Gitarrist im Scheinwerferlicht spielt .
+Target: Eight men play instruments on stage , with a guitarist <unk> in lights .
+Prediction: Eight men play on stage while a guitarist plays guitar under the spotlight .
+
+Input: Ein Mann in einem orangefarbenen Overall und passendem Schutzhelm hilft mit einem blauen Schlauch
+Target: A man in an orange jumpsuit and matching hard hat is helping with a blue hose
+Prediction: A man in an orange jumpsuit and matching hard hat is helping a blue hose hose hose
+
+Input: Ein Mann und zwei Mädchen mit Angelruten vor einem Gewässer halten einen Fisch hoch .
+Target: A man and two girls show off a fish while holding fishing poles in front of a body of water .
+Prediction: A man and two girls with fishing poles holding up a fish in front of a body of water .
+
+Input: Ein Mann in einem roten Shirt beobachtet einen Hund beim <unk> .
+Target: Man in red shirt watches dog on an agility course .
+Prediction: A man in a red shirt watches a dog toy gun .
+
+Input: Ein Junge in einer rot-weißen Badehose springt rückwärts in einen schönen Pool .
+Target: A boy wearing red and white swimming trunks diving backwards in a beautiful pool .
+Prediction: A boy in a red and white swim trunks jumps backwards into a beautiful pool .
+
+Input: Eine Asiatin steckt ihre Haare zurück .
+Target: An Asian woman <unk> her hair back .
+Prediction: An Asian woman is sticking her hair back back
+
+Input: Ein ältere Frau und ein kleines Kind in einem pinkfarbenen Shirt spielen mit bunten <unk> .
+Target: An older woman and a young child in a pink shirt playing with multicolored blocks .
+Prediction: An older woman and a small child in a pink shirt playing with colorful toy supplies .
+
+Input: Ein kleiner schwarzer Hund springt über <unk>
+Target: A small black dog jumping over gates
+Prediction: A small black dog jumps over his toy
+
+Input: Ein Mann mit braunen Haaren in einem grünen Hemd spielt im Freien Trompete .
+Target: A brown - haired man in a green shirt plays a trumpet outdoors .
+Prediction: A man with brown hair in a green shirt playing a trumpet outside .
+
+Input: Ein Mann telefoniert mit hochgelegten Füßen .
+Target: A man talks on the phone with his feet up .
+Prediction: A man is using his feet up to the feet .
+
+Input: Ein Gruppe Kinder sitzt auf einer <unk> Matte und isst aus Schalen .
+Target: A group of children sit on a blue mat while they eat out of bowls .
+Prediction: A group of children sitting on a mat made out of bowls of bowls .
+
+Input: Ein schwarzer Junge sitzt im Sand .
+Target: A black boy is sitting in the sand .
+Prediction: A black boy is sitting in the sand .
+
+Input: Ein kleiner Hund sieht zu wie zwei größere Hunde auf einem Feld <unk> spielen .
+Target: A small dog watches two big dogs playing rough in a field .
+Prediction: A small dog watches as two opposing dogs play on a field of toy
+
+Input: Menschen , die vor einem großen Gebäude im Kreis sitzen .
+Target: People sitting in a circle outside a large building .
+Prediction: People sitting in a circle in front of a large building
+
+Input: Ein Hund springt um einen Ball zu fangen , während ein anderer zusieht .
+Target: One dog leaps to catch a softball while another looks on .
+Prediction: A dog jumps to catch a ball while another watches .
+
+Input: Ein blondes Kind schaukelt auf einer Schaukel .
+Target: A blond child swinging on a swing .
+Prediction: A blond child is swinging on a swing .
+
+Input: Ein Mann und zwei Frauen diskutieren und <unk> Weißwein
+Target: One man and two women having a discussion over white wine
+Prediction: A man and two women having a discussion and four white wine
+
+Input: Ein Asiate bereitet im Freien Essen zu .
+Target: An Asian man is cooking food outdoors .
+Prediction: An Asian man is preparing food outside .
+
+Input: Ein brauner Hund ist kurz davor , einen Frisbee zu fangen .
+Target: A brown dog about to catch a green Frisbee .
+Prediction: A brown dog is about to catch a Frisbee .
+
+Input: Fans jubeln während die Band ein Lied spielt .
+Target: Fans cheer as the band plays a song .
+Prediction: fans cheer as the band performs a song .
+
+Input: Ein kleiner Junge steht neben einer Pyramide aus Sand .
+Target: A young boy is standing next to a sand sculpture of a pyramid .
+Prediction: A little boy stands next to a pyramid of sand .
+
+Input: Drei kleine Kinder gehen durch einen grasbewachsenen Hof .
+Target: Three young children are walking through a grassy yard .
+Prediction: Three young children walk through a grassy yard .
+
+Input: Ein Mann grübelt über einer Skulptur auf einem Wagen .
+Target: A man pounds on an artwork perched on a cart .
+Prediction: A man ponders over a sculpture on a cart .
+
+Input: Ein Mann fährt auf einem Berg Fahrrad .
+Target: A man on a bicycle rides on a mountain .
+Prediction: A man riding a bicycle on a mountain .
+
+Input: Ein Junge in blau-gelben Gummistiefeln läuft auf Erde .
+Target: A boy with blue and yellow rain boots runs on dirt .
+Prediction: A boy in blue and yellow rain boots runs on dirt .
+
+Input: Eine Frau in einer orangefarbenen Jacke sitzt auf einer Bank .
+Target: A woman in an orange jacket sits on a bench .
+Prediction: A woman in an orange jacket is sitting on a bench .
+
+Input: Ein Mann macht einen Trick auf dem Skateboard
+Target: A man doing a trick on skateboard
+Prediction: A man is doing a trick on a
+
+Input: Ein Mann in einem Karateanzug in der Luft .
+Target: A man in a martial arts uniform in midair .
+Prediction: A man in a karate uniform in midair
+
+Input: Eine Frau verkauft auf einem Gehsteig Tüten mit Früchten .
+Target: Woman selling bags of fruit on a sidewalk .
+Prediction: A woman selling fruit on a sidewalk with fruit market
+
+Input: Zwei Fußballmannschaften auf dem Feld .
+Target: Two soccer teams are on the field .
+Prediction: Two soccer teams on the field of football teams
+
+Input: Ein Kind in einem blauen Shirt springt von einer Bank .
+Target: A child in a blue shirt jumping off a bench .
+Prediction: A child in a blue shirt jumps off a bench .
+
+Input: Ein Torwart in einem gelben Trikot schützt das Tor .
+Target: A goalie in a yellow field is <unk> the goal .
+Prediction: A goalie in a yellow jersey is sorting the goal goal .
+
+Input: Eine Gruppe junger Menschen trinkt <unk> in einem <unk> <unk> .
+Target: A group of young people take shots in a Mexican setting .
+Prediction: A group of young people drinking from a golf toy inside a golf
+
+Input: Ein Junger Mann rutscht mit dem Skateboard über ein rosa Geländer .
+Target: A young man skateboards off a pink railing .
+Prediction: A young man sliding down a pink railing over a
+
+Input: Ein kleiner Junge springt von einem <unk> auf ein <unk> Bett .
+Target: A young boy jumping from a bunk bed on a smaller bed .
+Prediction: A young boy jumps off a toy basket on a bed .
+
+Input: Zwei Leute in komischen <unk> , eines blau und eines <unk> , stehen auf einer Straße .
+Target: Two people wearing odd <unk> - like costumes , one blue and one purple , are standing in a road .
+Prediction: Two people in odd shoes , one blue and neck hat , standing on a street .
+
+Input: Ein Läufer in einem blauen Shirt mit einer <unk> Nummer .
+Target: Man running wearing a blue shirt with a number taped to it .
+Prediction: A runner wearing a blue shirt with a number four number four on it
+
+Input: Ein asiatischer Fabrikarbeiter posiert für die Kamera .
+Target: An Asian factory worker posing for the camera .
+Prediction: An Asian worker dining food for the camera .
+
+Input: Ein Mann , der anscheinend bei einem Marathon <unk> , zeigt zwei Daumen nach oben .
+Target: A man that appears to be running in a marathon gives us 2 thumbs up .
+Prediction: A man who is showing from what appears to be a marathon from a marathon gives two
+
+Input: Basketballspieler versuchen während eines Spiels , einen Korb zu erzielen .
+Target: Basketball players shoot for a goal during a game .
+Prediction: basketball player trying to score a game in a game of
+
+Input: Ein Footballspieler in einem orangefarbenen Trikot lächelt und hält einen Football .
+Target: A football player wearing an orange uniform smiling and holding the football .
+Prediction: A football player in an orange jersey smiles and holding a football .
+
+Input: Zwei <unk> fahren um eine Kurve während andere zusehen .
+Target: Two downhill skateboarders round a curve while others watch .
+Prediction: Two BMX racers racing around a corner while others watch .
+
+Input: Ein Team in Weiß und Gold an der Seitenlinie eines <unk> .
+Target: A team in white and gold on the sidelines of a football field .
+Prediction: A team in white and gold on the sidelines of a four wheel .
+
+Input: Ein kleines Mädchen schiebt seinen Roller über eine Wiese mit Bäumen .
+Target: A little girl is pushing her scooter through a grassy tree lined field .
+Prediction: A little girl pushes his scooter across a grassy field with trees .
+
+Input: Eine Gruppe asiatischer Kinder in weißen Hemden und Kappen gibt eine Vorstellung vor einer Menge .
+Target: Group of asian children dressed in white shirts and hats performing with a crowd looking on .
+Prediction: A group of Asian children in white shirts and caps giving a crowd in front of a crowd
+
+Input: Fußgänger auf einer Straße blicken auf ein Kind in einem Karton .
+Target: Pedestrians walking down the street look at a child in a cardboard box .
+Prediction: Pedestrians walking on a street looking at a child in a box .
+
+Input: Ein brauner Hund läuft über den Sandstrand .
+Target: A brown dog runs down the sandy beach .
+Prediction: A brown dog runs across the sandy beach .
+
+Input: Zwei Männer in <unk> stehen neben einer Frau .
+Target: Two men in army uniforms stand next to a woman .
+Prediction: Two men in hiking gear stand near a woman .
+
+Input: Der <unk> Lama bei einem Empfang , zu dem Besucher <unk> , Schirme und <unk> bringen .
+Target: The <unk> <unk> during a reception where participants have <unk> <unk> , <unk> and prayer flags .
+Prediction: The daughter 's edge at a reception , father , father , and screaming .
+
+Input: Ein Radfahrer springt über eine Hindernis .
+Target: A biker jumps an obstacle .
+Prediction: A bicyclist jumping over an obstacle .
+
+Input: Ein Paar sitzt auf weißen Gartenstühlen und lächelt in die Kamera .
+Target: A couple sitting in white lawn chairs are smiling at the camera .
+Prediction: A couple sitting in white chairs and smiling at the camera .
+
+Input: Kleine Kinder fahren in einem Miniaturzug .
+Target: Young kids are on a small train ride .
+Prediction: Little kids are racing in a train station .
+
+Input: Ein Surfer beim Wellenreiten in einem blauen Neoprenanzug .
+Target: A surfer in a blue swimsuit is riding the waves .
+Prediction: A surfer digging in a blue wetsuit surfing .
+
+Input: Ein Junge springt auf seinen Fußball spielenden Bruder .
+Target: The boy jumps onto his soccer player brother .
+Prediction: A boy jumping his soccer while performing on his soccer
+
+Input: Zwei junge Männer aus verschiedenen Fußballmannschaften versuchen auf einem Fußballplatz den Ball zu bekommen .
+Target: Two young men on opposing soccer teams are competing to get the ball on a soccer field .
+Prediction: Two young men from different soccer teams try to get the ball on a soccer field .
+
+Input: Leute gehen auf einer befestigten <unk> Straße , umgeben von <unk> Händlern .
+Target: People are walking on a paved slope surrounded by Chinese vendors .
+Prediction: People walk on a metal structure surrounded by multiple vendors selling vendors .
+
+Input: Ein kleiner Junge in weißen Hosen springt von der Couch .
+Target: A young boy wearing white pants is jumping off the couch .
+Prediction: A young boy in white pants jumps off the couch .
+
+Input: Ein Junge in einem orangefarbenen Shirt schüttet Legosteine aus einer Tasche .
+Target: A boy in an orange shirt is pouring Legos from a bag .
+Prediction: A boy in an orange shirt is pouring Legos from a bag of a
+
+Input: Eine Frau in braunen Sandalen , blauen Jeans und einem weißen Shirt hält ein Baby unter einem großen Baum .
+Target: Woman wearing brown sandals and blue jeans , in a white shirt , holding a baby under a tall tree .
+Prediction: A woman in brown sandals , blue jeans and a white shirt , holds a baby under a large tree .
+
+Input: Drei Personen lächeln und halten <unk> Schilder .
+Target: Three people smiling and holding political signs .
+Prediction: Three people are smiling and holding signs with signs
+
+Input: Ein Polizist steht neben einem Auto auf einer städtischen Straße .
+Target: An officer stands next to a car on a city street .
+Prediction: A police officer stands by a car on a city street .
+
+Input: Zwei Männer mit Mützen .
+Target: Two men wearing hats .
+Prediction: Two men wearing hats are kicking
+
+Input: Ein Junge ist in der Luft und versucht einen Fußball zu treffen
+Target: A boy in midair trying to kick a soccer ball
+Prediction: A boy is in midair trying to hit a soccer ball
+
+Input: Ein kleiner Junge mit einer blauen <unk> hält den Kopf gesenkt .
+Target: A young boy with a blue beanie has his head down .
+Prediction: A young boy with a blue plastic mask covering his head with his
+
+Input: Ein rothaariger Mann mit Dreadlocks sitzt und spielt auf einer akustischen Gitarre .
+Target: A red - haired man with dreadlocks is sitting playing and acoustic guitar .
+Prediction: A red - haired man sitting on an acoustic guitar , playing an acoustic guitar
+
+Input: Ein Mann isst ein Sandwich und hält seine kleine Tochter auf dem Schoß .
+Target: A man eating a sandwich with his baby daughter in his lap .
+Prediction: A man eats a sandwich while holding his small daughter in his lap .
+
+Input: Ein afroamerikanisches Kind hält etwas hoch , worauf die Leute auf dem Bild stolz sind .
+Target: An African American child is holding something up that those in the picture are proud of .
+Prediction: African American child holding up something that has the number of people on the picture .
+
+Input: Eine Frau gibt einer Gruppe Anweisungen über einen Lautsprecher .
+Target: A woman directs a crowd of people with a loudspeaker .
+Prediction: A woman is directing a group of ultimate frisbee over a sand
+
+Input: Kostümierte Zuschauer sehen zu wie ein Polizist eine Rede hält und ein Mann im Anzug eine Schale mit Obst hält .
+Target: Costumed onlookers watch as a uniformed policeman makes a speech and a man in a suit holds a bowl of fruit .
+Prediction: Spectators in costume watch as a police officer gives a bowl of fruit into a suit with fruit .
+
+Input: Eine Gruppe ist in einer Bar .
+Target: A crowd is present at a bar .
+Prediction: A group of people are at a bar .
+
+Input: Ein Mädchen in Weiß und eines in Grün gehen an einer blauen <unk> vorbei .
+Target: A girl in white and a girl in green walk past a blue car wash station .
+Prediction: A girl in white and a green pile of fishing past a blue tablecloth .
+
+Input: Ein Mann verwendet <unk> Geräte .
+Target: A man is using electronic equipment .
+Prediction: A man uses wooden equipment equipment .
+
+Input: Eine Person surft auf einer brechenden Welle auf dem Ozean .
+Target: A person surfing through a crashing wave in the ocean .
+Prediction: A person surfing on a crashing wave on the ocean .
+
+Input: Ein <unk> inspiziert etwas .
+Target: An army officer is inspecting something .
+Prediction: A BMX bike rider inspects some sort of
+
+Input: Eine Braut und Bräutigam küssen sich unter dem Brautschleier .
+Target: A bride and groom kiss under the bride 's veil .
+Prediction: A bride and groom kissing under the temple .
+
+Input: <unk> steht im Hintergrund während ein junger Mann mit einem roten Schal über dem Gesicht vorbeigeht .
+Target: Riot police are standing in the background while a young man with a red scarf covering his face is walking .
+Prediction: A BMX bike stands in the background as a young man with a red scarf walks by her face .
+
+Input: Ein schwarz-weißer Hund springt bei einem Wettbewerb über ein Hindernis
+Target: A black and white dog jumping over a <unk> vault at a competition
+Prediction: A black and white dog jumping over an obstacle during a competition .
+
+Input: Eine Frau in einer Strickjacke liest zu Hause ein Buch .
+Target: A woman wearing a sweater is reading a book in her home .
+Prediction: A woman in a cardigan reads a book to home a book .
+
+Input: Mehrere Teenager blicken über ein Geländer in einem dunklen Raum .
+Target: Several teenagers are looking over a railing in a dark room .
+Prediction: Several teenagers look over a railing in a dark room .
+
+Input: Der Mann im weißen T-Shirt macht sich daran , auf einen Fels zu klettern .
+Target: The man in the white t - shirt is starting to climb a rock .
+Prediction: The man in the white t - shirt is resting on a rock climbing .
+
+Input: Ein Teenager streckt sich in der Küche und sein Bauch ist teilweise sichtbar .
+Target: A teenage boy is stretching in the kitchen and you can see part of his stomach .
+Prediction: A teenager stretches in the kitchen with his stomach partially partially visible .
+
+Input: Personen halten verschiedene Arten von <unk> über unterschiedliche Trommeln .
+Target: People are holding various types of drumsticks above different kinds of drums .
+Prediction: People holding different types of poles over drums .
+
+Input: Drei <unk> ernten Reis auf einem Feld .
+Target: Three farmers harvest rice out in a rice field .
+Prediction: Three different races around the track of a field .
+
+Input: Zwei Frauen und ein Mann betrachten ein Buch .
+Target: Two women and a man are looking at a book .
+Prediction: Two women and a man looking at a book .
+
+Input: Die Beine von drei Kindern , die neben einem Durcheinander <unk> Fäden stehen .
+Target: Three children 's legs are shown as they stand near a mess of silly string .
+Prediction: The legs from three children standing next to a mess of equipment .
+
+Input: Ein Koch posiert beim Kochen für die Kamera .
+Target: A cook is posing for a camera while cooking .
+Prediction: A chef is posing for the camera cook .
+
+Input: Viele Leute protestieren auf einer Straße gegen <unk> .
+Target: Many people in a street protesting the use of <unk> in power plants .
+Prediction: Many people protest up on a street against his hind legs .
+
+Input: Der Teenager springt mit seinem Fahrrad über den Hügel .
+Target: The teen jumps the hill with his bicycle .
+Prediction: The teenager jumps his bicycle over the hill .
+
+Input: Ein kleines Mädchen läuft entlang einer Küste .
+Target: A little girl running at on the shore of a beach .
+Prediction: A little girl is running along a shore of a beach .
+
+Input: Eine weiße Ente schlägt im Wasser mit den Flügeln .
+Target: White duck <unk> its wings in the water .
+Prediction: A white duck is hitting the wings in the water
+
+Input: Zwei Männer stehen vor dem Heck eines Lasters und hinter einem Metallgegenstand und unterhalten sich anscheinend während vier weitere Personen um sie herum stehen .
+Target: Two males seem to be conversing while standing in front of a truck 's back , and behind a metal item , while four people stand around them .
+Prediction: Two men stand in front of a truck truck and rolling food behind them while four people stand around them .
+
+Input: Eine Frau in einem rosa Rock hält ein Baby .
+Target: A woman in a pink skirt is holding a baby .
+Prediction: A woman in a pink skirt holding a baby .
+
+Input: Ein Hockeyspieler in einem gelben Trikot schützt das Tor .
+Target: A hockey player in a yellow jersey is guarding the goal .
+Prediction: A hockey player in a yellow uniform is sorting the goal .
+
+Input: Ein Mann läuft an einem Schild vorbei , auf dem <unk> <unk> steht .
+Target: A man is walking past a large sign that says <unk> <unk> .
+Prediction: A man walks past a sign that has fallen upside down .
+
+Input: Drei Jungen in grünen Shirts und braunen Hosen posieren auf dem Oberteil einer Rutsche .
+Target: Three boys wearing green shirts and tan pants pose at the top of a slide .
+Prediction: Three boys wearing green shirts and brown pants are posing on a slide .
+
+Input: Ein Mann tanzt mit einem Hund zwischen den Beinen .
+Target: A man is dancing with a dog between his legs .
+Prediction: A man dancing with a dog between his legs between the legs
+
+Input: Der weiße Hund läuft im flachen Wasser .
+Target: The white dog is running in the shallow water .
+Prediction: The white dog is running in shallow water .
+
+Input: Schlagzeuger aus Oregon marschieren mit der Band .
+Target: Oregon <unk> are marching with the band .
+Prediction: drummer out of catch instruments with the band .
+
+Input: Eine Gruppe Kinder spielt in einem eingezäunten Hof während ein Erwachsener zusieht .
+Target: A group of children play together in a fenced yard as an adult watches .
+Prediction: A group of children play in a fenced yard while an adult watches .
+
+Input: Eine Gruppe Frauen spielt gemeinsam auf Musikinstrumenten .
+Target: A group of women are playing musical instruments together .
+Prediction: A group of women playing musical instruments together .
+
+Input: Ein kleines Mädchen in einem violett karierten Kleid liegt auf dem Boden und weint .
+Target: A little girl in a purple plaid dress is lying on the floor crying .
+Prediction: A little girl in a purple plaid dress is laying on the ground crying crying .
+
+Input: Ein Mann mit <unk> Haaren rasiert seinen Bart .
+Target: A man with graying hair shaves his beard .
+Prediction: A man with hair hair is shaving his beard with
+
+Input: Zwei schwarze Hunde , ein schwarzer Welpe und ein weißer Hund im Schnee .
+Target: Two black dogs , a black puppy , and a white dog in the snow .
+Prediction: Two black dogs , one black puppy and a white dog in the snow .
+
+Input: Ein Mann in einem Basketballtrikot von Miami macht einen Sprungwurf .
+Target: Man in a Miami basketball uniform jumping to make a shot .
+Prediction: A shirtless man in a basketball jersey making a jump shot .
+
+Input: Eine Frau sitzt vor ihrem Haus mit einer blauen Tür und genießt die frische Luft .
+Target: A woman is sitting outside her house with a blue door , enjoying the air .
+Prediction: A woman sitting in front of her door with a blue door and enjoying the air .
+
+Input: Kinder sitzen auf einem Mann in einem <unk> .
+Target: Kids are sitting on a man in a banana suit .
+Prediction: Children are sitting on a man in a patterned mask .
+
+Input: Ein <unk> Hund springt über stehendes Wasser im Sand .
+Target: A gray and white dog jumping over standing water in the sand .
+Prediction: A BMX dog is jumping over standing in the sand .
+
+Input: Eine Menschenmenge hat sich im Regen um einen Springbrunnen im Park versammelt .
+Target: A crowd gathered around a park water fountain in the rain .
+Prediction: A crowd has gathered around a water fountain in the rain in the
+
+Input: Mehrere ältere Männer , einige mit traditionellen Kopfbedeckungen , treffen sich an einer Straßenecke .
+Target: Several older men , some in traditional headdress <unk> on a street corner .
+Prediction: Several older men , some wearing traditional hats , are having a conversation on a
+
+Input: Ein junger Hund , der aussieht wie <unk> , im Schnee .
+Target: A young <unk> looking dog is in the snow .
+Prediction: A young dog that looks like he is wrapped in the
+
+Input: Der Fußballer im goldenen Trikot blockt den Ball vor dem gegnerischen Spieler .
+Target: The soccer player wearing the gold jersey is blocking the ball from the opposing team player .
+Prediction: The soccer player in gold jersey blocks the ball in front of the opposing player .
+
+Input: Eine Frau in einem schwarzen Hemd strickt mit rotem Garn .
+Target: A woman in a black shirt is knitting with purple yarn .
+Prediction: A woman in a black shirt is knitting with a red yarn .
+
+Input: Vier Frauen asiatischer Herkunft tragen goldene Kleider und tanzen Ballett .
+Target: Four females of Asian descent are wearing golden dresses while performing point ballet .
+Prediction: Four women of Asian descent wearing matching dresses and dancing at dresses .
+
+Input: Eine Person spielt auf einem einzigartigen Instrument .
+Target: A person is playing an unique instrument .
+Prediction: A person playing a unique instrument up instrument .
+
+Input: Ein Mädchen in schwarzer Sportbekleidung mit der Nummer <unk> auf dem Trikot läuft über einen Rasen .
+Target: A girl wearing black athletic clothing with the number <unk> on her jersey runs across some grass .
+Prediction: A girl in black athletic gear with the number four on top is running through a grassy field .
+
+Input: Ein Kind mit der Nummer " 93 " fährt Ski .
+Target: A kid crosscountry skis wearing the number " 93 " .
+Prediction: A child with the number no shirt is skiing .
+
+Input: Ein älterer Herr und ein junges Mädchen fangen an , gemeinsam ein Puzzle zusammenzusetzen .
+Target: A older gentleman and a young girl begin to work on a puzzle together .
+Prediction: An older gentleman and a young girl pose together a puzzle game .
+
+Input: Ein <unk> filmt einen afrikanischen Jungen in einem gelben Shirt .
+Target: A film crew films a young African boy in a yellow shirt .
+Prediction: A BMX rider is filming an African boy in a yellow shirt .
+
+Input: Eine beleuchtete Brücke mit einem Radfahrer und ein paar Autos .
+Target: A streetlight lit bridge with a cyclist and some cars .
+Prediction: A group of people are around a bridge with a bicyclist and
+
+Input: Ein Mann reitet auf einem Bullen in einem Gehege .
+Target: A man rides a kicking bull in a <unk> .
+Prediction: A man is riding a bull in a baseball hat .
+
+Input: Ein Junge springt hoch , um einen Tennisball mit seinem Schläger zu treffen
+Target: A boy jumping to hit a tennis ball with his racket
+Prediction: A boy jumps up to hit a tennis ball with his bat
+
+Input: Kinder klettern auf eine Wand während zwei weitere Personen zusehen .
+Target: Kids scale a wall as two other people watch .
+Prediction: Children climb a wall while two other people watch .
+
+Input: Menschen laufen über einen <unk> mit Palmen im Hintergrund .
+Target: People walking about a university campus with palm trees in the background .
+Prediction: People walking through a pile of leaves with palm trees in the background .
+
+Input: Ein kleines Mädchen tritt in einem Karatekurs einen schwarzen Gegenstand .
+Target: Little girl kicks black object at karate class .
+Prediction: A little girl is performing a black routine in a
+
+Input: Zwei Männer versuchen sich aus dem Wasser auf einen Steg aus <unk> <unk> .
+Target: Two men trying to hoist themselves up from the water on to a walkway made of tires .
+Prediction: Two men trying out from the water made of a wooden dock onto a dock .
+
+Input: Eine Menschenmenge beobachtet zwei Männer beim <unk> .
+Target: Two men breakdancing , with a crowd looking on .
+Prediction: A crowd watches two men watch golf .
+
+Input: Eine professionell gekleidete Frau steht an einem Podium und <unk> oder diskutiert über etwas <unk> .
+Target: A professionally dressed woman standing at a podium debating or discussing something of <unk> .
+Prediction: A professional professional woman is standing at a podium or creating something made up or crafts
+
+Input: Eine Frau liegt auf einem Sofa und lacht .
+Target: A woman is laying down on a sofa laughing .
+Prediction: A woman is laying on a couch laughing .
+
+Input: Eine schwarze und eine weiße Frau wischen einen schmutzigen Boden .
+Target: A dirt floor gets swept by one white and one black woman .
+Prediction: A black and white woman sweeping a dirty floor .
+
+Input: Ein Reh springt über einen Zaun .
+Target: A deer jumps a fence .
+Prediction: A deer jumps over a fence .
+
+Input: Drei Hunde spielen auf einem Feld .
+Target: Three dogs play with each other out in the field .
+Prediction: Three dogs play in a field of dogs .
+
+Input: Zwei kleine Kinder auf dem Sand .
+Target: Two young children are on sand .
+Prediction: Two young children on the sand .
+
+Input: Ein lächelnder Junge spielt im Laub mit den Enten .
+Target: A smiling young boy plays in the leaves among the ducks .
+Prediction: A smiling boy playing in leaves with the ducks .
+
+Input: Diese vier Personen stehen mit 3 Hunden im Freien .
+Target: These four people are standing outdoors , with 3 dogs .
+Prediction: These four people are standing outside with 3 dogs .
+
+Input: Beim Besuch von <unk> zeigt ein Führer in Richtung weiterer Sehenswürdigkeiten .
+Target: While visiting the <unk> ruins , a guide points in the direction of more attractions .
+Prediction: A woman is visiting from his BMX way into hands facing video .
+
+Input: Ein Mädchen in einem <unk> mit offenem Mund
+Target: Girl wearing radio t - shirt has open mouth
+Prediction: A girl in a tan coat with its mouth open
+
+Input: Eine Gruppe Stammesangehöriger füllt in der Wüste Wasserbehälter .
+Target: A tribal group filling water jugs in the desert .
+Prediction: A group of people making an axe , in the desert
+
+Input: Ein Mann steht auf einer Straße in der Stadt .
+Target: A man standing on a city street .
+Prediction: A man stands on a city street in the
+
+Input: Ein Schwarm Vögel fliegt mit Futter in den <unk> weg .
+Target: A flock of birds fly away with food in their <unk> .
+Prediction: A flock of birds is flying away in the sprinkler with food .
+
+Input: Zwei Männer reiten über eine Farm und führen einen von einem Esel gezogenen Wagen .
+Target: Two men ride through farm land as they guide their mule powered trailer .
+Prediction: Two men ride a farm at a farm cart leading a donkey cart .
+
+Input: Zwei Männer stehen auf einem Berggipfel .
+Target: Two people stand at the peak of a mountain .
+Prediction: Two men stand on a mountaintop .
+
+Input: Ein junges Mädchen hat Spaß während es einen Schneeengel macht .
+Target: Young girl enjoying herself as she makes a snow angel .
+Prediction: A young girl is having fun while taking a snow angel .
+
+Input: Drei Männer lächeln für die Kamera und zeigen ihre Muskeln .
+Target: Three guys smiling for camera and showing off their <unk> .
+Prediction: Three men smiling for the camera and pointing .
+
+Input: Eine Person schreibt auf einer Tafel in einem leeren Klassenzimmer .
+Target: A person is writing on a chalkboard in a empty classroom .
+Prediction: A person is writing on a chalkboard in an empty classroom .
+
+Input: Ein Mann in einem schwarzen Shirt sitzt mit einem offenen Apple-Laptop vor sich an einem Tisch .
+Target: A man in a black shirt sitting at a table with an open Apple laptop in front of him .
+Prediction: A man in a black shirt sitting at a table with an open apron in front of her an open table
+
+Input: Vier Personen entspannen auf einem grasbewachsenen Hügel mit Ausblick auf ein <unk> Tal .
+Target: Four people relaxing on a grassy hill overlooking a rocky valley .
+Prediction: Four people relax on a grassy hill looking up at a valley .
+
+Input: Ein Junge auf einem Skateboard springt neben Eisenbahnschienen in die Luft .
+Target: A boy with a skateboard if jumping in the air along some railway tracks .
+Prediction: A boy on a skateboard jumping up next to some railroad tracks .
+
+Input: Ein Mann in einem orangefarbenen Shirt spielt Tennis .
+Target: There is a man in an orange shirt playing tennis .
+Prediction: A man in an orange shirt is playing tennis .
+
+Input: Der Hund mit dem roten Halsband knurrt den Hund mit dem blauen Halsband an .
+Target: The dog with the red collar is <unk> its teeth at the dog with the blue collar .
+Prediction: The dog with the red collar is firing the blue collar collar collar .
+
+Input: Der Junge ist im Freien und genießt einen Sommertag .
+Target: The boy is outside enjoying a summer day .
+Prediction: The boy is outside enjoying a summer day .
+
+Input: Ein Arbeiter in einem orangefarbenen <unk> kniet und inspiziert eine Maschine .
+Target: A worker in an orange work suit is kneeling down inspecting a piece of machinery .
+Prediction: A worker in an orange leather jacket kneels and inspects a machine .
+
+Input: Männer in Cowboyhüten stehen bei einem Rodeo herum .
+Target: Men in cowboy hats stand around at a rodeo .
+Prediction: Men in cowboy hats stand around at a rodeo .
+
+Input: Zwei Hunde sind im Schnee , einer von ihnen hat etwas im Maul .
+Target: There are two dogs in the snow and one has something in his mouth .
+Prediction: Two dogs are in the snow , one with something in its mouth .
+
+Input: Eine <unk> macht eine Pause , um etwas zu trinken .
+Target: An employee takes a break from working to have a drink
+Prediction: A BMX bike rider takes a break to drink .
+
+Input: Ein beigefarbener Hund läuft hinter einem weißen Hund mit einem gelben Spielzeug .
+Target: A beige dog runs behind a white dog holding a yellow toy .
+Prediction: A beige dog walks behind a white dog with a yellow toy .
+
+Input: Hockeyspieler in weißem Trikot mit einem Schläger .
+Target: Hockey player in white uniform with stick
+Prediction: Hockey players in white uniform with a bat
+
+Input: Mann in einem weißen Hemd und <unk> spielt mit einer <unk> .
+Target: Man in a white shirt with a gold watch playing with a circuit board .
+Prediction: Man in white shirt and gloves playing with a toy mask made of his neck .
+
+Input: Ein schwarzes Pferd steckt seinen Kopf durch einen Zaun und versucht , an das Gras zu kommen .
+Target: A black horse sticking its head through a fence trying to reach the grass .
+Prediction: A black horse sticks his head through a fence trying to run the grass .
+
+Input: Ein <unk> tut so , als würde es seine Hände aufwärmen wollen , raucht aber in <unk> <unk> .
+Target: A <unk> is pretending to keep his hands warm but <unk> he is smoking crack .
+Prediction: A BMX rider , like it 's hands is rolling up against a but smoking in his
+
+Input: Zwei Typen und eine Frau lächeln .
+Target: Two guys and a girl smiling .
+Prediction: Two guys and one woman smiling .
+
+Input: Ein Kind beugt sich über eine Auslage aus blauem und gelbem Plastik während eine Erwachsener zusieht .
+Target: A child leans over a display made up of blue and yellow plastic , while an adult looks on .
+Prediction: A child leans over a display of blue and yellow plastic bag while an adult looks on .
+
+Input: Ein schwarz-weißer Hund läuft zu einem kaputten Ball im Schnee .
+Target: A black - and - white dog goes for a <unk> ball on the snow .
+Prediction: A black and white dog is running towards a broken ball in the snow .
+
+Input: Ein junges Mädchen steht neben einer gelben Katze auf einer Küchenarbeitsplatte .
+Target: A young girl standing next to a yellow cat on a kitchen countertop .
+Prediction: A young girl stands next to a yellow cat on a kitchen counter .
+
+Input: Die zwei Kinder Spielen auf dem Spielplatz .
+Target: The two kids are playing at the playground .
+Prediction: The two children are on the playground .
+
+Input: Ein Tennisspieler in einem grün gestreiften Shirt hält seine Hand vor den Mund .
+Target: A tennis player in a green striped shirt is holding his hand up to his mouth .
+Prediction: A tennis player in a green striped shirt holds his hand to his mouth .
+
+Input: Ein Junge in einem roten Badeanzug spielt im Wasser .
+Target: A boy in a red suit plays in the water .
+Prediction: A boy in a red bathing suit plays in water .
+
+Input: Ein Kind mit roter Jacke und Mütze hält ein großes Stück Schnee .
+Target: A child wearing a red coat and cap is holding a large chunk of snow .
+Prediction: A child in a red jacket and cap holds a large piece of snow .
+
+Input: Zwei Polizisten in orangefarbenen Warnwesten stehen mit Passanten vor einem weißen Zelt .
+Target: Two officers with orange jackets stand outside a white tent with onlookers .
+Prediction: Two police officers in orange vests stand in front of a white tent with
+
+Input: Zwei Personen stehen neben einem Baum .
+Target: Two people standing next to a tree on the ground .
+Prediction: Two people stand near a tree .
+
+Input: Zwei Männer sitzen und unterhalten sich neben einem Gebäude aus Stein .
+Target: Two men sit talking near a stone building .
+Prediction: Two men are sitting and talking next to stone of
+
+Input: Ein brünettes Kind mit Brille hält ein blondes Kind in einem roten Sweatshirt und gelben Stiefeln .
+Target: A brunette child with glasses holding a blond child wearing a red sweater and yellow boots .
+Prediction: A brunette child wearing glasses holds a blond child in a red sweatshirt and yellow boots .
+
+Input: Ein schwarz-weißer Hund spielt mit einem weißen Ball .
+Target: A black and white dog is playing with a white ball .
+Prediction: A black and white dog is playing with a white ball .
+
+Input: Zwei Personen küssen sich auf einem Gehsteig vor eine Limousine während Leute vorbeigehen .
+Target: Two people are kissing on a sidewalk in front of a limo while people walk by .
+Prediction: Two people kiss on a sidewalk in front of a limo as people walk by .
+
+Input: Eine Frau spielt Volleyball .
+Target: A woman is playing volleyball .
+Prediction: A woman playing volleyball .
+
+Input: Zwei große Hunde kämpfen auf einem unbefestigten <unk> Gelände .
+Target: Two large dogs are fighting in a dirt field .
+Prediction: Two large dogs fight over a dirt path with no trees
+
+Input: Ein brauner Hund springt über eine Hürde .
+Target: A brown dog jumping over a hurdle .
+Prediction: A brown dog jumping over a hurdle .
+
+Input: Ein Mann in einem gestreiften Shirt raucht auf der Straße eine Zigarette .
+Target: A man wearing a striped shirt is smoking a cigarette on the street
+Prediction: A man in a striped shirt smoking a cigarette on the street .
+
+Input: Ein kleines Mädchen hält einen kleinen Jungen auf ihrem Schoß .
+Target: A little girl is holding a little boy on her lap .
+Prediction: A little girl holding a little boy on her lap .
+
+Input: Ein Mann versucht an einem schönen <unk> , einen sehr <unk> Bullen zu reiten .
+Target: A man trying to ride a very mad bull on a beautiful <unk> afternoon .
+Prediction: A man trying to ride a beautiful golf horse as he is riding a very football
+
+Input: Kinder <unk> sich , beim <unk> zu gewinnen .
+Target: Children fight to win a tug - of - war battle .
+Prediction: Children neck , including kid to win a sprinkler .
+
+Input: Ein Radfahrer lehnt sich auf einer unbefestigten Piste mit einem Mountainbike in die Kurve .
+Target: A cyclist is leaning a mountain bike around a bend on a dirt track .
+Prediction: A bicyclist leans on dirt bike with a mountain bike racer in it .
+
+Input: Zwei Personen und eine <unk> Kuh vor einem Haus .
+Target: Two people and a leashed cow at a home .
+Prediction: Two people and a tan cow covered in front of a
+
+Input: Der kleine Junge lernt mit seinem Vater , Rad zu fahren .
+Target: The young boy learns how to ride a bike with his dad .
+Prediction: The little boy is learning to ride the bike .
+
+Input: Ein Junge in einem roten Shirt und schwarzen Shorts kehrt eine Einfahrt .
+Target: Boy in red shirt and black shorts sweeps driveway .
+Prediction: A boy in a red shirt and black shorts sweeps a
+
+Input: Eine afrikanische Familie steht vor ein paar <unk> Behausungen .
+Target: An african family are standing in front of some makeshift houses .
+Prediction: An African family standing in front of a few mop banner .
+
+Input: Ein Mann spielt neben einem Baum ein Instrument .
+Target: A man playing an instrument next to a tree .
+Prediction: A man playing an instrument next to a tree playing an
+
+Input: Zwei Frauen halten sich über einen Tisch an den Händen und lächeln in die Kamera .
+Target: Two women are holding hands over a table and smiling at the camera .
+Prediction: Two women holding hands over a table while smiling at the camera .
+
+Input: Ein <unk> brauner Hund geht auf dem Gras .
+Target: A <unk> brown dog walking on the grass .
+Prediction: A tan dog is walking on the grass .
+
+Input: Eine Baseballspielerin in einem schwarzen Shirt fängt eine Spielerin in einem weißen Shirt .
+Target: A baseball player in a black shirt just tagged a player in a white shirt .
+Prediction: A female female player wearing a black shirt is catching an player in a white shirt .
+
+Input: Eine Frau hält einen großen Scheck für " Kids ' Food <unk> " .
+Target: A woman is holding a large check for Kids Food <unk> .
+Prediction: A woman holding a large free free free ' sign .
+
+Input: Die zwei Hunde , einer mit einem Tennisball im Maul , laufen durch hohes Gras .
+Target: The two dogs , one with a tennis ball in its mouth , are running through tall grass .
+Prediction: The two dogs , one with a tennis ball in his mouth , run through tall grass .
+
+Input: Zwei Erwachsene und zwei Kinder sitzen auf einer Parkbank .
+Target: Two adults and two children sit on a park bench .
+Prediction: Two adults and two children sit on a park bench .
+
+Input: Eine Frau bläst eine <unk> auf einer Wiese .
+Target: A woman in a grassy field blows on a dandelion .
+Prediction: A woman blows a toy board on a grassy field .
+
+Input: Ein Mann verkauft Kartoffeln an eine Gruppe .
+Target: A man sells potatoes to a group of people .
+Prediction: A man selling potatoes for a group of people .
+
+Input: Eine Gruppe versammelt sich auf einer Straße um einem Akkordeonspieler zuzuhören .
+Target: A group of people on a street gather together to listen to an accordion .
+Prediction: A group of people gather around an accordion to pass a man by on a street
+
+Input: Ein Mann sitzt auf einer Bank und hört Musik auf seinem iPod .
+Target: A man sits on a bench <unk> to his iPod
+Prediction: A man is sitting on a bench listening to his iPod
+
+Input: Ein alter Mann in dicker Kleidung sitzt in der U-Bahn und liest eine Zeitung .
+Target: An old man on a subway wearing heavy layered clothing is reading a newspaper .
+Prediction: An old man in heavy clothing reads a newspaper while sitting on the subway .
+
+Input: Ein älterer Mann mit Brille bereitet Fleisch zu .
+Target: An older man in glasses is preparing meat .
+Prediction: An older man with glasses prepares meat .
+
+Input: Ein Mann macht einen Trick auf dem Fahrrad , bei dem er auf dem <unk> balanciert .
+Target: A man performing a trick on a bicycle by standing on the pedals while the bike is upright .
+Prediction: A man is doing a trick on his bicycle as he balances on the BMX bike .
+
+Input: Ein Mann ist am Strand und macht eine Sandskulptur .
+Target: A man is at the beach making a sand sculpture .
+Prediction: A man is on the beach and making a sand sculpture .
+
+Input: Mehrere Menschen essen an einem Picknicktisch im Park .
+Target: Multiple people in a park eating at a picnic table
+Prediction: Several people are eating at a picnic table at a park
+
+Input: Zwei Frauen werden bei einer Art <unk> an einem Baum <unk> .
+Target: Two women are strapped to a tree in some type of construction job .
+Prediction: Two women being held by some sort of toy trunk at a tree .
+
+Input: Ein Cowboy versucht beim Rodeo , die 8 Sekunden zu schaffen .
+Target: A cowboy in a rodeo trying to beat the 8 second clock .
+Prediction: A cowboy trying to keep the number eight fans .
+
+Input: Ein Hund springt durch ein brennendes Hindernis .
+Target: A dog is jumping through a <unk> obstacle .
+Prediction: A dog jumps through an obstacle .
+
+Input: Eine übergewichtige Frau mit langen schwarzen Haaren in einem rosa Shirt mit Namensschild trägt Lippenstift auf .
+Target: An overweight woman with long black hair in a pink shirt with a name tag is applying lipstick .
+Prediction: An overweight woman with long black hair in a pink shirt with name tag on her held .
+
+Input: Ein Mann repariert das Fahrrad eines kleinen Mädchens .
+Target: A man fixing a little girl 's bicycle .
+Prediction: A man is fixing the bicycle of a little girl
+
+Input: Zwei Mädchen in bauschigen Kleidern tanzen vor ein paar Musikanten auf der Straße .
+Target: Two girls in puffy skirts are dancing in front of some musicians in the street .
+Prediction: Two girls in wetsuits dancing in front of a few musicians on the street .
+
+Input: Der gelbe Hund trägt einen Stock übers Wasser .
+Target: The yellow dog is carrying a stick by water .
+Prediction: The yellow dog carries a stick on the water .
+
+Input: Ein Mädchen in einem Sweatshirt verdeckt die Sonne .
+Target: A girl in a sweater is blocking the <unk> <unk> .
+Prediction: A girl in a sweatshirt covering the sun .
+
+Input: Ein Rockkonzert findet statt .
+Target: A rock concert is taking place .
+Prediction: A rock team is going on is taking
+
+Input: Drei Frauen in leuchtenden Farben und mit Kopfbedeckungen halten Karten mit <unk> .
+Target: Three women in bright colors and headdresses are holding love message cards .
+Prediction: Three women wearing bright colors and hats holding up cards with toy hair .
+
+Input: Ein brauner Hund gräbt im Dreck .
+Target: A brown dog is digging in the dirt .
+Prediction: A brown dog digging in the dirt .
+
+Input: Ein kleiner Junge in einem weiß gestreiften Shirt und mit einem Stirnband hält einen Tennisschläger .
+Target: Young boy in a white striped shirt and headband holding a tennis racket .
+Prediction: A little boy in a white striped shirt and headband holding a tennis racket .
+
+Input: Zwei Hunde laufen im Wald weg von der Kamera .
+Target: Two dogs running away from the camera in the woods .
+Prediction: Two dogs run away from the camera in the woods .
+
+Input: Ein Mädchen spielt komplett bekleidet im Springbrunnen .
+Target: A girl is playing in the fountain fully clothed .
+Prediction: A girl is playing in all water fountain .
+
+Input: Drei junge Sumoringer stehen und hören einem <unk> zu
+Target: Three young sumo wrestlers standing and listening to an <unk>
+Prediction: Three young wrestlers are standing and listening to a golf ball
+
+Input: Zwei männliche Wanderer inspizieren einen Baumstamm , der am Rand eines <unk> liegt .
+Target: Two male hikers inspect a log by the side of a forest path .
+Prediction: Two male hikers are inspecting a log by the edge of a log .
+
+Input: Drei Spieler bringen einen gegnerischen Spieler zu Boden .
+Target: Three players bring a team opponent to the ground .
+Prediction: Three players are teaching an opposing player to the ground .
+
+Input: Zwei Jungen überqueren eine Straße in einer Stadt während sie mit einem roten Fußball spielen .
+Target: Two boys cross a city street while kicking a red soccer ball .
+Prediction: Two boys are crossing a street in a city while they play with a
+
+Input: Ein Mann hält einen anderen mit seinem Rücken hoch .
+Target: A man holding up another with his back .
+Prediction: A man is holding up another man up to his
+
+Input: Weißer Hund auf einem Berg dreht sich zu etwas außerhalb des Bildes um , Himmel im Hintergrund .
+Target: White dog on mountainside turns to face something <unk> , sky in background .
+Prediction: White dog turns to be hanging out of frame outside of frame with sky .
+
+Input: Ein Junge fährt Skateboard auf einer Skateboardrampe .
+Target: A boy riding a skateboard on a skateboarding ramp
+Prediction: A boy skateboarding on a skateboarding ramp .
+
+Input: Ein Musiker mit langen Haaren spielt Keyboard .
+Target: A long - haired , male musician is playing on a piano .
+Prediction: A musician with long hair is playing a keyboard .
+
+Input: Drei Sportler halten <unk> und stehen auf dem <unk> .
+Target: Three athletes holding <unk> stand on the victory podium .
+Prediction: Three athletes holding up balloons and standing on the golf course
+
+Input: Zwei glatzköpfige Drag <unk> in roten Kleidern .
+Target: Two bald drag <unk> in red dresses
+Prediction: Two bald gray clad teenage wearing red dresses
+
+Input: Ein kleiner Junge hängt von einer <unk> .
+Target: A young boy is hanging onto a clothing rack .
+Prediction: A young boy hangs from a half pipe .
+
+Input: Ein kleines Mädchen in Pink hält sich an einer Stange fest .
+Target: A little girl wearing pink is holding on to a bar .
+Prediction: A little girl in pink is holding onto a pole .
+
+Input: Ein Mann in Grün springt auf seinem Motorrad über mehrere andere Motorräder .
+Target: A man in green jumps <unk> motorbikes on his own motorbike .
+Prediction: A man in green jumping over several other bikes over several bikes .
+
+Input: Eine Frau spielt im Park mit zwei kleinen Jungen .
+Target: A woman playing with two young boys at a park
+Prediction: A woman playing with two young boys in a park .
+
+Input: Vier Personen spielen Fußball auf einem Strand .
+Target: Four people are playing soccer on a beach .
+Prediction: Four people are playing soccer on a beach .
+
+Input: Zwei Teenagerinnen umarmen sich vor Radfahrern im Hintergrund , eine trägt einen Fahrradhelm .
+Target: Two teenage girls hugging , one wearing a bicycle helmet , with cyclists in the background .
+Prediction: Two teenage girls are hugging a bike in front of bicyclists in the background , one wearing a
+
+Input: Zwei mittelgroße Hunde laufen über den Schnee .
+Target: Two medium sized dogs run across the snow .
+Prediction: Two medium sized brown and running dogs running through the
+
+Input: Eine Frau steht auf einem grünen Feld , hält einen weißen Hund und zeigt auf einen braunen Hund .
+Target: A woman is standing in a green field holding a white dog and pointing at a brown dog .
+Prediction: A woman standing in a green field holding a white dog and pointing to a brown dog .
+
