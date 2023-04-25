@@ -64,6 +64,7 @@ def detokenize(vocab, tokens):
     return sent
 
 def train():
+    '''Train model an save it to /utils'''
     train_germ_path = '../data/train/train.de'
     train_eng_path = '../data/train/train.en'
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -128,6 +129,7 @@ def train():
     return None
 
 def test():
+    '''Test model and output results to out.txt'''
     model_path = '../utils/model.pt'
     de_test = '../data/test/test.de'
     en_test = '../data/test/test.en'
