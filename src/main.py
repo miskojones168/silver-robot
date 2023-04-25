@@ -24,7 +24,8 @@ class MyDataset(Dataset):
     def __getitem__(self, idx): # return german sentence, english sentence
         return self.de_data[idx], self.en_data[idx]
 
-def create_batch(each_data_batch, PAD_IDX):
+def create_batch(each_data_batch, PAD_IDX): # callback function for Dataloader
+    # pad input sentences in a batch, so they all have same size
     de_batch, en_batch = [], []
     for (de_item, en_item) in each_data_batch:
         de_batch.append(de_item)
